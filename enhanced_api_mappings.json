@@ -1,0 +1,7947 @@
+{
+    "city_mapping": {
+        "Mumbai": 1,
+        "Pune": 4,
+        "Nagpur": 2,
+        "Bangalore": 0,
+        "New Delhi": 3
+    },
+    "enhanced_area_mapping": {
+        "Goregaon East": {
+            "rate": 144.0,
+            "number": 0
+        },
+        "Powai": {
+            "rate": 109.0,
+            "number": 1
+        },
+        "Mundhwa": {
+            "rate": 42.0,
+            "number": 2
+        },
+        "Hingna": {
+            "rate": 17.0,
+            "number": 3
+        },
+        "Mira Road": {
+            "rate": 35.0,
+            "number": 4
+        },
+        "Jakkur": {
+            "rate": 43.0,
+            "number": 5
+        },
+        "Chittaranjan Park": {
+            "rate": 25.0,
+            "number": 6
+        },
+        "Soami Nagar South": {
+            "rate": 74.11111111111111,
+            "number": 7
+        },
+        "Hadapsar": {
+            "rate": 65.0,
+            "number": 8
+        },
+        "Kharadi": {
+            "rate": 22.0,
+            "number": 9
+        },
+        "Indira Nagar": {
+            "rate": 16.0,
+            "number": 10
+        },
+        "Whitefield": {
+            "rate": 22.0,
+            "number": 11
+        },
+        "Bandra East": {
+            "rate": 70.0,
+            "number": 12
+        },
+        "Jogeshwari Vikhroli Link Road": {
+            "rate": 102.0,
+            "number": 13
+        },
+        "Hinjewadi": {
+            "rate": 42.0,
+            "number": 14
+        },
+        "Jyoti Nagar East": {
+            "rate": 23.0,
+            "number": 15
+        },
+        "Madanpur Khadar Village": {
+            "rate": 19.0,
+            "number": 16
+        },
+        "C V Raman Nagar": {
+            "rate": 27.0,
+            "number": 17
+        },
+        "Baner": {
+            "rate": 32.0,
+            "number": 18
+        },
+        "Dudulgaon": {
+            "rate": 28.0,
+            "number": 19
+        },
+        "Mohan Nagar": {
+            "rate": 54.0,
+            "number": 20
+        },
+        "Balagere": {
+            "rate": 28.0,
+            "number": 21
+        },
+        "Manewada": {
+            "rate": 13.0,
+            "number": 22
+        },
+        "Wadala West": {
+            "rate": 101.0,
+            "number": 23
+        },
+        "Dhanori Road": {
+            "rate": 35.0,
+            "number": 24
+        },
+        "MedaHalli": {
+            "rate": 20.0,
+            "number": 25
+        },
+        "Harsha Layout": {
+            "rate": 11.0,
+            "number": 26
+        },
+        "Frazer Town": {
+            "rate": 24.0,
+            "number": 27
+        },
+        "Loni Kalbhor": {
+            "rate": 6.0,
+            "number": 28
+        },
+        "Kirkatwadi": {
+            "rate": 10.0,
+            "number": 29
+        },
+        "Budigere": {
+            "rate": 24.0,
+            "number": 30
+        },
+        "Chhattarpur": {
+            "rate": 38.0,
+            "number": 31
+        },
+        "Dindoshi - Malad East": {
+            "rate": 65.0,
+            "number": 32
+        },
+        "Raj nagar": {
+            "rate": 24.0,
+            "number": 33
+        },
+        "Aundh": {
+            "rate": 63.0,
+            "number": 34
+        },
+        "Wadi": {
+            "rate": 10.0,
+            "number": 35
+        },
+        "Ram Das Peth": {
+            "rate": 10.0,
+            "number": 36
+        },
+        "Kasavanahalli": {
+            "rate": 12.0,
+            "number": 37
+        },
+        "Adarsh Nagar": {
+            "rate": 19.0,
+            "number": 38
+        },
+        "Marathahalli": {
+            "rate": 41.0,
+            "number": 39
+        },
+        "Hebbal": {
+            "rate": 93.0,
+            "number": 40
+        },
+        "Bandra West": {
+            "rate": 233.0,
+            "number": 41
+        },
+        "Mahipalpur": {
+            "rate": 44.0,
+            "number": 42
+        },
+        "Bavdhan": {
+            "rate": 21.0,
+            "number": 43
+        },
+        "Sahakara Nagar": {
+            "rate": 26.0,
+            "number": 44
+        },
+        "Pitampura": {
+            "rate": 23.33333333333333,
+            "number": 45
+        },
+        "Borivali East": {
+            "rate": 88.0,
+            "number": 46
+        },
+        "Hennur": {
+            "rate": 21.0,
+            "number": 47
+        },
+        "Andheri West": {
+            "rate": 72.0,
+            "number": 48
+        },
+        "NIBM Road": {
+            "rate": 56.0,
+            "number": 49
+        },
+        "Pimple Nilakh": {
+            "rate": 44.0,
+            "number": 50
+        },
+        "Kalbadevi": {
+            "rate": 143.0,
+            "number": 51
+        },
+        "Electronic City": {
+            "rate": 11.0,
+            "number": 52
+        },
+        "Manjri Budruk": {
+            "rate": 13.0,
+            "number": 53
+        },
+        "Lokhandwala Township Kandivali East": {
+            "rate": 64.0,
+            "number": 54
+        },
+        "Kamptee Road": {
+            "rate": 5.0,
+            "number": 55
+        },
+        "Hulimavu": {
+            "rate": 11.0,
+            "number": 56
+        },
+        "Freedom Fighters Enclave": {
+            "rate": 26.0,
+            "number": 57
+        },
+        "Sarjapur Road": {
+            "rate": 36.0,
+            "number": 58
+        },
+        "Begur Road": {
+            "rate": 39.0,
+            "number": 59
+        },
+        "Wanawari": {
+            "rate": 19.0,
+            "number": 60
+        },
+        "Mulund East": {
+            "rate": 34.0,
+            "number": 61
+        },
+        "Neeladri Nagar": {
+            "rate": 30.0,
+            "number": 62
+        },
+        "Deonar Chembur": {
+            "rate": 134.0,
+            "number": 63
+        },
+        "Commonwealth Games Village": {
+            "rate": 50.0,
+            "number": 64
+        },
+        "Handewadi": {
+            "rate": 12.0,
+            "number": 65
+        },
+        "Block C Dashrath Puri": {
+            "rate": 22.22222222222222,
+            "number": 66
+        },
+        "Somalwada": {
+            "rate": 19.0,
+            "number": 67
+        },
+        "Jogeshwari East": {
+            "rate": 148.0,
+            "number": 68
+        },
+        "Rajarajeshwari Nagar": {
+            "rate": 45.0,
+            "number": 69
+        },
+        "Besa": {
+            "rate": 13.0,
+            "number": 70
+        },
+        "Hoodi": {
+            "rate": 35.0,
+            "number": 71
+        },
+        "Ayodhya Nagar": {
+            "rate": 12.0,
+            "number": 72
+        },
+        "HAL 3rd Stage": {
+            "rate": 33.0,
+            "number": 73
+        },
+        "Ganesh Nagar": {
+            "rate": 27.0,
+            "number": 74
+        },
+        "State Highway 104": {
+            "rate": 33.0,
+            "number": 75
+        },
+        "Wagholi": {
+            "rate": 33.0,
+            "number": 76
+        },
+        "Manyata Tech Park": {
+            "rate": 26.0,
+            "number": 77
+        },
+        "Sector 6 Dwarka": {
+            "rate": 25.0,
+            "number": 78
+        },
+        "Sion": {
+            "rate": 93.0,
+            "number": 79
+        },
+        "Thanisandra Main Road": {
+            "rate": 20.0,
+            "number": 80
+        },
+        "Nawada": {
+            "rate": 21.0,
+            "number": 81
+        },
+        "Liberty Garden": {
+            "rate": 72.0,
+            "number": 82
+        },
+        "Neelam Nagar": {
+            "rate": 52.0,
+            "number": 83
+        },
+        "Napean Sea Road": {
+            "rate": 200.0,
+            "number": 84
+        },
+        "PNS Layout": {
+            "rate": 31.0,
+            "number": 85
+        },
+        "Borivali West": {
+            "rate": 99.0,
+            "number": 86
+        },
+        "Khar West": {
+            "rate": 109.0,
+            "number": 87
+        },
+        "Punawale": {
+            "rate": 36.0,
+            "number": 88
+        },
+        "Chinchwad Gaon": {
+            "rate": 24.0,
+            "number": 89
+        },
+        "New Colony": {
+            "rate": 12.0,
+            "number": 90
+        },
+        "Lok Nayak Puram": {
+            "rate": 18.0,
+            "number": 91
+        },
+        "Dighori Road": {
+            "rate": 17.0,
+            "number": 92
+        },
+        "Pali Hill": {
+            "rate": 140.0,
+            "number": 93
+        },
+        "Mohan Garden Uttam Nagar": {
+            "rate": 17.0,
+            "number": 94
+        },
+        "Dhanori": {
+            "rate": 30.0,
+            "number": 95
+        },
+        "Lohegaon": {
+            "rate": 10.0,
+            "number": 96
+        },
+        "Malabar Hill": {
+            "rate": 147.0,
+            "number": 97
+        },
+        "Dabha": {
+            "rate": 13.0,
+            "number": 98
+        },
+        "Sone Gaon": {
+            "rate": 13.0,
+            "number": 99
+        },
+        "Wardha": {
+            "rate": 5.0,
+            "number": 100
+        },
+        "Sector 19 Dwarka": {
+            "rate": 36.22222222222222,
+            "number": 101
+        },
+        "Mahalunge": {
+            "rate": 42.0,
+            "number": 102
+        },
+        "Chhatarpur Extension": {
+            "rate": 40.0,
+            "number": 103
+        },
+        "New Golden Nest Road": {
+            "rate": 32.0,
+            "number": 104
+        },
+        "Ber Sarai": {
+            "rate": 16.0,
+            "number": 105
+        },
+        "JVPD Scheme": {
+            "rate": 144.0,
+            "number": 106
+        },
+        "Mahendra Park": {
+            "rate": 130.0,
+            "number": 107
+        },
+        "Sagarpur West": {
+            "rate": 15.0,
+            "number": 108
+        },
+        "Block 1st Koramangala": {
+            "rate": 31.0,
+            "number": 109
+        },
+        "Wadgaon Sheri": {
+            "rate": 8.0,
+            "number": 110
+        },
+        "Jaitala": {
+            "rate": 19.0,
+            "number": 111
+        },
+        "Sampigehalli": {
+            "rate": 21.0,
+            "number": 112
+        },
+        "Khapri": {
+            "rate": 15.0,
+            "number": 113
+        },
+        "Chakan": {
+            "rate": 16.0,
+            "number": 114
+        },
+        "Vasai East": {
+            "rate": 33.0,
+            "number": 115
+        },
+        "Indira nagar Stage 2": {
+            "rate": 70.0,
+            "number": 116
+        },
+        "Wakad": {
+            "rate": 23.0,
+            "number": 117
+        },
+        "Sector 9 Dwarka": {
+            "rate": 28.0,
+            "number": 118
+        },
+        "Chembur": {
+            "rate": 78.0,
+            "number": 119
+        },
+        "Vishrantwadi": {
+            "rate": 22.0,
+            "number": 120
+        },
+        "Bhugaon": {
+            "rate": 18.0,
+            "number": 121
+        },
+        "Rajouri Garden": {
+            "rate": 45.11111111111112,
+            "number": 122
+        },
+        "Gottigere": {
+            "rate": 45.0,
+            "number": 123
+        },
+        "Chatrapati Nagar": {
+            "rate": 18.0,
+            "number": 124
+        },
+        "Manjri": {
+            "rate": 17.0,
+            "number": 125
+        },
+        "ITPL": {
+            "rate": 60.0,
+            "number": 126
+        },
+        "Matunga West": {
+            "rate": 123.0,
+            "number": 127
+        },
+        "Sant Nagar East of Kailash": {
+            "rate": 23.0,
+            "number": 128
+        },
+        "Ashok Vihar": {
+            "rate": 20.0,
+            "number": 129
+        },
+        "Grant Road East": {
+            "rate": 102.0,
+            "number": 130
+        },
+        "Laxman Nagar Baner": {
+            "rate": 75.0,
+            "number": 131
+        },
+        "Vasant Vihar": {
+            "rate": 43.0,
+            "number": 132
+        },
+        "Suyog Nagar": {
+            "rate": 15.0,
+            "number": 133
+        },
+        "Katraj": {
+            "rate": 24.0,
+            "number": 134
+        },
+        "Yelahanka": {
+            "rate": 34.0,
+            "number": 135
+        },
+        "Indraprastha": {
+            "rate": 32.0,
+            "number": 136
+        },
+        "Lower Parel": {
+            "rate": 198.0,
+            "number": 137
+        },
+        "Pushpanjali Enclave": {
+            "rate": 18.0,
+            "number": 138
+        },
+        "Katol Road": {
+            "rate": 9.0,
+            "number": 139
+        },
+        "Civil Lines": {
+            "rate": 29.0,
+            "number": 140
+        },
+        "Amar Nagar Mulund West": {
+            "rate": 51.0,
+            "number": 141
+        },
+        "Shastri Nagar": {
+            "rate": 18.0,
+            "number": 142
+        },
+        "Wadala East": {
+            "rate": 139.0,
+            "number": 143
+        },
+        "Undri": {
+            "rate": 17.0,
+            "number": 144
+        },
+        "Domlur": {
+            "rate": 36.0,
+            "number": 145
+        },
+        "Sector 14 Dwarka": {
+            "rate": 21.0,
+            "number": 146
+        },
+        "Karve Nagar": {
+            "rate": 24.0,
+            "number": 147
+        },
+        "Ravi Nagar": {
+            "rate": 13.0,
+            "number": 148
+        },
+        "Kundan Nagar": {
+            "rate": 11.0,
+            "number": 149
+        },
+        "Sector 23 Dwarka": {
+            "rate": 23.0,
+            "number": 150
+        },
+        "Karol Bagh": {
+            "rate": 17.0,
+            "number": 151
+        },
+        "Goregaon West": {
+            "rate": 90.0,
+            "number": 152
+        },
+        "Harlur": {
+            "rate": 16.0,
+            "number": 153
+        },
+        "Madhu Vihar": {
+            "rate": 19.0,
+            "number": 154
+        },
+        "MKS Layout": {
+            "rate": 25.0,
+            "number": 155
+        },
+        "BTM Layout Stage 2": {
+            "rate": 20.0,
+            "number": 156
+        },
+        "Punvale Bazar": {
+            "rate": 29.0,
+            "number": 157
+        },
+        "Bhandup": {
+            "rate": 60.0,
+            "number": 158
+        },
+        "Tumkur Road": {
+            "rate": 39.0,
+            "number": 159
+        },
+        "Nagdevanahalli": {
+            "rate": 18.0,
+            "number": 160
+        },
+        "Kiwale": {
+            "rate": 24.0,
+            "number": 161
+        },
+        "BTM Layout": {
+            "rate": 57.0,
+            "number": 162
+        },
+        "Malviya Nagar": {
+            "rate": 18.0,
+            "number": 163
+        },
+        "Horamavu": {
+            "rate": 18.0,
+            "number": 164
+        },
+        "Charholi Budruk": {
+            "rate": 38.0,
+            "number": 165
+        },
+        "Burari": {
+            "rate": 15.0,
+            "number": 166
+        },
+        "Hoskote": {
+            "rate": 19.0,
+            "number": 167
+        },
+        "Phase 5 JP Nagar": {
+            "rate": 25.0,
+            "number": 168
+        },
+        "Mihan": {
+            "rate": 26.0,
+            "number": 169
+        },
+        "Safdarjung Development Area": {
+            "rate": 93.0,
+            "number": 170
+        },
+        "Andheri East": {
+            "rate": 59.0,
+            "number": 171
+        },
+        "Bagalur Main Road": {
+            "rate": 27.0,
+            "number": 172
+        },
+        "Phase 8th JP Nagar": {
+            "rate": 23.0,
+            "number": 173
+        },
+        "Patel Nagar": {
+            "rate": 21.0,
+            "number": 174
+        },
+        "Keshav Nagar": {
+            "rate": 56.0,
+            "number": 175
+        },
+        "Sector 11 Dwarka": {
+            "rate": 50.0,
+            "number": 176
+        },
+        "Kandivali West": {
+            "rate": 51.0,
+            "number": 177
+        },
+        "Seven Bungalows": {
+            "rate": 104.0,
+            "number": 178
+        },
+        "Thanisandra": {
+            "rate": 22.0,
+            "number": 179
+        },
+        "Ashok Nagar": {
+            "rate": 37.0,
+            "number": 180
+        },
+        "Kandivali East": {
+            "rate": 88.0,
+            "number": 181
+        },
+        "Santacruz East": {
+            "rate": 116.0,
+            "number": 182
+        },
+        "HSR Layout": {
+            "rate": 29.0,
+            "number": 183
+        },
+        "Defence Colony": {
+            "rate": 155.0,
+            "number": 184
+        },
+        "Air Force Area": {
+            "rate": 24.0,
+            "number": 185
+        },
+        "Byrathi": {
+            "rate": 23.0,
+            "number": 186
+        },
+        "Shalimar bagh": {
+            "rate": 38.0,
+            "number": 187
+        },
+        "1A Block Koramangala": {
+            "rate": 83.0,
+            "number": 188
+        },
+        "Moti Nagar": {
+            "rate": 28.0,
+            "number": 189
+        },
+        "Samata Nagar Thakur Village": {
+            "rate": 69.0,
+            "number": 190
+        },
+        "Bommasandra": {
+            "rate": 17.0,
+            "number": 191
+        },
+        "Four Bungalows": {
+            "rate": 94.0,
+            "number": 192
+        },
+        "Kotewada": {
+            "rate": 7.0,
+            "number": 193
+        },
+        "Avalahalli": {
+            "rate": 19.0,
+            "number": 194
+        },
+        "Banaswadi": {
+            "rate": 29.0,
+            "number": 195
+        },
+        "Jalahalli West": {
+            "rate": 30.0,
+            "number": 196
+        },
+        "Sector 8 Dwarka": {
+            "rate": 54.0,
+            "number": 197
+        },
+        "Malad East": {
+            "rate": 57.0,
+            "number": 198
+        },
+        "Uttam Nagar": {
+            "rate": 11.0,
+            "number": 199
+        },
+        "Sat Bari": {
+            "rate": 221.0,
+            "number": 200
+        },
+        "Connaught Place": {
+            "rate": 83.0,
+            "number": 201
+        },
+        "Govind Nagar Bhandup West": {
+            "rate": 69.0,
+            "number": 202
+        },
+        "Palanahalli Road": {
+            "rate": 24.0,
+            "number": 203
+        },
+        "Marunji": {
+            "rate": 28.0,
+            "number": 204
+        },
+        "New Rajendra Nagar": {
+            "rate": 67.0,
+            "number": 205
+        },
+        "Mukherjee Nagar": {
+            "rate": 31.0,
+            "number": 206
+        },
+        "Safdarjung Enclave": {
+            "rate": 70.0,
+            "number": 207
+        },
+        "Vikhroli East": {
+            "rate": 156.0,
+            "number": 208
+        },
+        "Doddakannelli": {
+            "rate": 46.0,
+            "number": 209
+        },
+        "Kaggadasapura": {
+            "rate": 35.0,
+            "number": 210
+        },
+        "Worli": {
+            "rate": 69.0,
+            "number": 211
+        },
+        "Virar West": {
+            "rate": 11.0,
+            "number": 212
+        },
+        "Kalkaji": {
+            "rate": 60.0,
+            "number": 213
+        },
+        "Bhandup West": {
+            "rate": 69.0,
+            "number": 214
+        },
+        "Gopal Nagar": {
+            "rate": 12.0,
+            "number": 215
+        },
+        "St Nagar Burari": {
+            "rate": 24.0,
+            "number": 216
+        },
+        "Sector 14 Rohini": {
+            "rate": 28.0,
+            "number": 217
+        },
+        "Neb Sarai": {
+            "rate": 25.0,
+            "number": 218
+        },
+        "Kaval Byrasandra": {
+            "rate": 18.0,
+            "number": 219
+        },
+        "Kammanahalli": {
+            "rate": 31.0,
+            "number": 220
+        },
+        "Rahatani Gaon": {
+            "rate": 30.0,
+            "number": 221
+        },
+        "Vinayak Nagar": {
+            "rate": 33.0,
+            "number": 222
+        },
+        "Kirti Nagar": {
+            "rate": 30.0,
+            "number": 223
+        },
+        "Yerwada Village": {
+            "rate": 28.0,
+            "number": 224
+        },
+        "Sunkadakatte": {
+            "rate": 9.0,
+            "number": 225
+        },
+        "Mahim West": {
+            "rate": 125.0,
+            "number": 226
+        },
+        "Magathane": {
+            "rate": 79.0,
+            "number": 227
+        },
+        "Old Rajendra Nagar": {
+            "rate": 62.0,
+            "number": 228
+        },
+        "Godhani": {
+            "rate": 23.0,
+            "number": 229
+        },
+        "Kakrola": {
+            "rate": 17.0,
+            "number": 230
+        },
+        "Electronic City Phase 2": {
+            "rate": 19.0,
+            "number": 231
+        },
+        "Anchepalya": {
+            "rate": 11.0,
+            "number": 232
+        },
+        "Byculla": {
+            "rate": 122.0,
+            "number": 233
+        },
+        "Ekta Nagar Kandivali West": {
+            "rate": 79.0,
+            "number": 234
+        },
+        "Chincholi Phatak": {
+            "rate": 91.0,
+            "number": 235
+        },
+        "Haji Colony": {
+            "rate": 13.0,
+            "number": 236
+        },
+        "Pipla": {
+            "rate": 22.0,
+            "number": 237
+        },
+        "Magarpatta City": {
+            "rate": 33.0,
+            "number": 238
+        },
+        "Chinchwad": {
+            "rate": 32.0,
+            "number": 239
+        },
+        "Choodasandra": {
+            "rate": 29.0,
+            "number": 240
+        },
+        "Prithvi layout": {
+            "rate": 31.0,
+            "number": 241
+        },
+        "Chandivali": {
+            "rate": 33.0,
+            "number": 242
+        },
+        "Aali Village": {
+            "rate": 14.0,
+            "number": 243
+        },
+        "Bannerghatta Road": {
+            "rate": 59.0,
+            "number": 244
+        },
+        "KR Puram": {
+            "rate": 31.0,
+            "number": 245
+        },
+        "Naigaon East": {
+            "rate": 19.0,
+            "number": 246
+        },
+        "Dabri": {
+            "rate": 27.0,
+            "number": 247
+        },
+        "Jeevan Niketan": {
+            "rate": 25.0,
+            "number": 248
+        },
+        "Balewadi": {
+            "rate": 37.0,
+            "number": 249
+        },
+        "Malad West": {
+            "rate": 37.0,
+            "number": 250
+        },
+        "Seegehalli": {
+            "rate": 37.0,
+            "number": 251
+        },
+        "Suyognagar": {
+            "rate": 44.0,
+            "number": 252
+        },
+        "Thakur Village": {
+            "rate": 92.0,
+            "number": 253
+        },
+        "Devanahalli": {
+            "rate": 45.0,
+            "number": 254
+        },
+        "Laxmi Nagar": {
+            "rate": 25.0,
+            "number": 255
+        },
+        "Laxmi Vihar Nawada": {
+            "rate": 30.0,
+            "number": 256
+        },
+        "Rahatni": {
+            "rate": 36.0,
+            "number": 257
+        },
+        "Abul Fazal Enclave Part 1": {
+            "rate": 28.0,
+            "number": 258
+        },
+        "Spice Garden Layout": {
+            "rate": 21.0,
+            "number": 259
+        },
+        "Dakshini Pitampura": {
+            "rate": 32.0,
+            "number": 260
+        },
+        "Block 6th Koramangala": {
+            "rate": 42.0,
+            "number": 261
+        },
+        "Ex Service Men Colony": {
+            "rate": 11.0,
+            "number": 262
+        },
+        "Sus": {
+            "rate": 21.0,
+            "number": 263
+        },
+        "Mahatma Gandhi Nagar": {
+            "rate": 64.0,
+            "number": 264
+        },
+        "Pimpri": {
+            "rate": 32.0,
+            "number": 265
+        },
+        "Kotla Mubarakpur": {
+            "rate": 28.0,
+            "number": 266
+        },
+        "Katraj Kondhwa Road": {
+            "rate": 34.0,
+            "number": 267
+        },
+        "Shanti Niketan": {
+            "rate": 138.0,
+            "number": 268
+        },
+        "Karthik Nagar": {
+            "rate": 50.0,
+            "number": 269
+        },
+        "Pimpri Chinchwad": {
+            "rate": 12.0,
+            "number": 270
+        },
+        "Dahisar West": {
+            "rate": 73.0,
+            "number": 271
+        },
+        "Wathoda": {
+            "rate": 13.0,
+            "number": 272
+        },
+        "Nagavara": {
+            "rate": 35.0,
+            "number": 273
+        },
+        "Sector 2 HSR Layout": {
+            "rate": 49.0,
+            "number": 274
+        },
+        "Abbigere": {
+            "rate": 27.0,
+            "number": 275
+        },
+        "Sector 4 Dwarka": {
+            "rate": 26.0,
+            "number": 276
+        },
+        "JB Nagar": {
+            "rate": 88.0,
+            "number": 277
+        },
+        "Butibori": {
+            "rate": 21.0,
+            "number": 278
+        },
+        "Uruli Devachi": {
+            "rate": 11.0,
+            "number": 279
+        },
+        "Manyata Residency": {
+            "rate": 37.0,
+            "number": 280
+        },
+        "Jayprakash Nagar": {
+            "rate": 106.0,
+            "number": 281
+        },
+        "Kapashera": {
+            "rate": 23.0,
+            "number": 282
+        },
+        "Dattapada": {
+            "rate": 169.0,
+            "number": 283
+        },
+        "RT Nagar": {
+            "rate": 50.0,
+            "number": 284
+        },
+        "Arjan Garh": {
+            "rate": 10.0,
+            "number": 285
+        },
+        "Pisoli": {
+            "rate": 18.0,
+            "number": 286
+        },
+        "Akshya Nagar": {
+            "rate": 15.0,
+            "number": 287
+        },
+        "Bhukum": {
+            "rate": 20.0,
+            "number": 288
+        },
+        "Sneh Nagar": {
+            "rate": 27.0,
+            "number": 289
+        },
+        "Shikrapur": {
+            "rate": 7.0,
+            "number": 290
+        },
+        "South Extension 1": {
+            "rate": 58.0,
+            "number": 291
+        },
+        "Mahadevapura": {
+            "rate": 38.0,
+            "number": 292
+        },
+        "Vile Parle East": {
+            "rate": 112.0,
+            "number": 293
+        },
+        "Bibwewadi": {
+            "rate": 27.0,
+            "number": 294
+        },
+        "Parel": {
+            "rate": 211.0,
+            "number": 295
+        },
+        "Dwarka Mor": {
+            "rate": 10.0,
+            "number": 296
+        },
+        "Camp": {
+            "rate": 41.0,
+            "number": 297
+        },
+        "Block 32 East Patel Nagar": {
+            "rate": 28.0,
+            "number": 298
+        },
+        "Mahalaxmi Nagar": {
+            "rate": 9.0,
+            "number": 299
+        },
+        "Gunjur Balagere Road": {
+            "rate": 32.0,
+            "number": 300
+        },
+        "Mehrauli": {
+            "rate": 31.0,
+            "number": 301
+        },
+        "Old Sangvi": {
+            "rate": 15.0,
+            "number": 302
+        },
+        "Manjari Road": {
+            "rate": 28.0,
+            "number": 303
+        },
+        "Sopan Baug Society": {
+            "rate": 40.0,
+            "number": 304
+        },
+        "Saswad": {
+            "rate": 29.0,
+            "number": 305
+        },
+        "Nathu Colony": {
+            "rate": 12.0,
+            "number": 306
+        },
+        "Banashankari Stage 1": {
+            "rate": 26.0,
+            "number": 307
+        },
+        "Chunabhatti": {
+            "rate": 116.0,
+            "number": 308
+        },
+        "Surajmal Vihar": {
+            "rate": 36.0,
+            "number": 309
+        },
+        "Rambaug Powai": {
+            "rate": 139.0,
+            "number": 310
+        },
+        "Khar Danda": {
+            "rate": 97.0,
+            "number": 311
+        },
+        "Manish Nagar": {
+            "rate": 26.0,
+            "number": 312
+        },
+        "Block F Palam Extension": {
+            "rate": 32.0,
+            "number": 313
+        },
+        "Hudkeshwar": {
+            "rate": 17.0,
+            "number": 314
+        },
+        "Trilokpuri": {
+            "rate": 20.0,
+            "number": 315
+        },
+        "Sadashiv Peth": {
+            "rate": 26.0,
+            "number": 316
+        },
+        "Mahavir Nagar Kandivali West": {
+            "rate": 74.0,
+            "number": 317
+        },
+        "Amravati Road": {
+            "rate": 17.0,
+            "number": 318
+        },
+        "Aya Nagar": {
+            "rate": 25.0,
+            "number": 319
+        },
+        "Film City Road": {
+            "rate": 59.0,
+            "number": 320
+        },
+        "Wadala": {
+            "rate": 137.0,
+            "number": 321
+        },
+        "Benson Town": {
+            "rate": 36.0,
+            "number": 322
+        },
+        "Somatne Phata": {
+            "rate": 10.0,
+            "number": 323
+        },
+        "Prabhadevi": {
+            "rate": 232.0,
+            "number": 324
+        },
+        "Gokhale Nagar": {
+            "rate": 38.0,
+            "number": 325
+        },
+        "Dollars Colony": {
+            "rate": 49.0,
+            "number": 326
+        },
+        "Krishna Nagar": {
+            "rate": 27.0,
+            "number": 327
+        },
+        "Tilak Nagar": {
+            "rate": 24.0,
+            "number": 328
+        },
+        "Royal Palms Estate": {
+            "rate": 30.0,
+            "number": 329
+        },
+        "Hazari Pahad": {
+            "rate": 26.0,
+            "number": 330
+        },
+        "Hingna Road": {
+            "rate": 12.0,
+            "number": 331
+        },
+        "Bellandur": {
+            "rate": 40.0,
+            "number": 332
+        },
+        "Varthur": {
+            "rate": 51.0,
+            "number": 333
+        },
+        "BEML Layout-Brookefield": {
+            "rate": 25.0,
+            "number": 334
+        },
+        "Haralur Main Road": {
+            "rate": 58.0,
+            "number": 335
+        },
+        "Kempapura Agrahara": {
+            "rate": 13.0,
+            "number": 336
+        },
+        "Brookefield": {
+            "rate": 41.0,
+            "number": 337
+        },
+        "Juhu Versova Link Road": {
+            "rate": 115.0,
+            "number": 338
+        },
+        "Kurla": {
+            "rate": 77.0,
+            "number": 339
+        },
+        "Vikaspuri": {
+            "rate": 30.0,
+            "number": 340
+        },
+        "Koregaon Park Annexe": {
+            "rate": 54.0,
+            "number": 341
+        },
+        "Wardha Road": {
+            "rate": 25.0,
+            "number": 342
+        },
+        "Sector 24 Rohini": {
+            "rate": 43.0,
+            "number": 343
+        },
+        "Muthanallur": {
+            "rate": 37.0,
+            "number": 344
+        },
+        "Cuffe Parade": {
+            "rate": 188.0,
+            "number": 345
+        },
+        "Phase 7 JP Nagar": {
+            "rate": 27.0,
+            "number": 346
+        },
+        "Sector 9 Rohini": {
+            "rate": 21.0,
+            "number": 347
+        },
+        "Chirag Delhi": {
+            "rate": 30.0,
+            "number": 348
+        },
+        "Gummanahalli": {
+            "rate": 26.0,
+            "number": 349
+        },
+        "Dehu Road": {
+            "rate": 18.0,
+            "number": 350
+        },
+        "Tilekar Nagar": {
+            "rate": 24.0,
+            "number": 351
+        },
+        "Kirari Suleman Nagar": {
+            "rate": 13.0,
+            "number": 352
+        },
+        "Patel Nagar West": {
+            "rate": 31.77777777777778,
+            "number": 353
+        },
+        "Mahavir Enclave Part 1": {
+            "rate": 15.0,
+            "number": 354
+        },
+        "Shiv Kutir": {
+            "rate": 206.0,
+            "number": 355
+        },
+        "Lajpat Nagar": {
+            "rate": 53.0,
+            "number": 356
+        },
+        "Bangalore Shivamogga Road": {
+            "rate": 10.0,
+            "number": 357
+        },
+        "Viman Nagar Central": {
+            "rate": 59.0,
+            "number": 358
+        },
+        "Srinagar": {
+            "rate": 6.0,
+            "number": 359
+        },
+        "Sector 23 Rohini": {
+            "rate": 34.0,
+            "number": 360
+        },
+        "Kalyan Vihar": {
+            "rate": 34.333333333333336,
+            "number": 361
+        },
+        "Sainik Nagar": {
+            "rate": 18.0,
+            "number": 362
+        },
+        "Prem Nagar 3": {
+            "rate": 23.0,
+            "number": 363
+        },
+        "Mahal": {
+            "rate": 25.0,
+            "number": 364
+        },
+        "Hongasandra": {
+            "rate": 11.0,
+            "number": 365
+        },
+        "Vazira Naka Borivali West": {
+            "rate": 34.0,
+            "number": 366
+        },
+        "Salunkhe Vihar": {
+            "rate": 24.0,
+            "number": 367
+        },
+        "Bibvewadi Road": {
+            "rate": 24.0,
+            "number": 368
+        },
+        "Parwati Nagar": {
+            "rate": 19.0,
+            "number": 369
+        },
+        "Shastri Nagar Mitha Nagar": {
+            "rate": 83.0,
+            "number": 370
+        },
+        "Yelahanka New Town": {
+            "rate": 13.0,
+            "number": 371
+        },
+        "Mangaldas Road": {
+            "rate": 34.0,
+            "number": 372
+        },
+        "Naigaon East Vasai Link Road": {
+            "rate": 25.0,
+            "number": 373
+        },
+        "Pardi": {
+            "rate": 15.0,
+            "number": 374
+        },
+        "Kudlu": {
+            "rate": 31.0,
+            "number": 375
+        },
+        "Vasai West": {
+            "rate": 17.0,
+            "number": 376
+        },
+        "Sathya Sai Layout": {
+            "rate": 27.0,
+            "number": 377
+        },
+        "Sector 3 HSR Layout": {
+            "rate": 35.0,
+            "number": 378
+        },
+        "DDA": {
+            "rate": 25.0,
+            "number": 379
+        },
+        "Naigaon Palghar": {
+            "rate": 18.0,
+            "number": 380
+        },
+        "Virar": {
+            "rate": 23.0,
+            "number": 381
+        },
+        "Narhe": {
+            "rate": 13.0,
+            "number": 382
+        },
+        "Santacruz West": {
+            "rate": 80.0,
+            "number": 383
+        },
+        "Mulund West": {
+            "rate": 62.0,
+            "number": 384
+        },
+        "Indira Vihar": {
+            "rate": 28.0,
+            "number": 385
+        },
+        "Wanadongri": {
+            "rate": 14.0,
+            "number": 386
+        },
+        "Dighi": {
+            "rate": 25.0,
+            "number": 387
+        },
+        "Annasandrapalya Extension": {
+            "rate": 18.0,
+            "number": 388
+        },
+        "Sector 2 Rohini": {
+            "rate": 19.0,
+            "number": 389
+        },
+        "Trimurti Nagar": {
+            "rate": 32.0,
+            "number": 390
+        },
+        "Sector 5 HSR Layout": {
+            "rate": 33.0,
+            "number": 391
+        },
+        "Devinagar": {
+            "rate": 20.0,
+            "number": 392
+        },
+        "Sector 13 Rohini": {
+            "rate": 29.0,
+            "number": 393
+        },
+        "Nala Sopara": {
+            "rate": 7.0,
+            "number": 394
+        },
+        "Dadar West": {
+            "rate": 100.0,
+            "number": 395
+        },
+        "Block F Karam Pura": {
+            "rate": 50.0,
+            "number": 396
+        },
+        "Awhalwadi Road": {
+            "rate": 13.0,
+            "number": 397
+        },
+        "Uday nagar": {
+            "rate": 13.0,
+            "number": 398
+        },
+        "Upkar Layout Whitefield": {
+            "rate": 24.0,
+            "number": 399
+        },
+        "Satara Road": {
+            "rate": 24.0,
+            "number": 400
+        },
+        "Jafar Nagar": {
+            "rate": 13.0,
+            "number": 401
+        },
+        "Koramangala": {
+            "rate": 61.0,
+            "number": 402
+        },
+        "South Extension": {
+            "rate": 50.0,
+            "number": 403
+        },
+        "GK I": {
+            "rate": 55.0,
+            "number": 404
+        },
+        "Sarita Vihar": {
+            "rate": 27.0,
+            "number": 405
+        },
+        "Ram Nagar": {
+            "rate": 19.0,
+            "number": 406
+        },
+        "Attibele": {
+            "rate": 11.0,
+            "number": 407
+        },
+        "Kalachauki": {
+            "rate": 54.0,
+            "number": 408
+        },
+        "Sir M Visvesvaraya Inst Road": {
+            "rate": 57.0,
+            "number": 409
+        },
+        "Nigdi": {
+            "rate": 25.0,
+            "number": 410
+        },
+        "Mahaveer Nagar": {
+            "rate": 11.0,
+            "number": 411
+        },
+        "Rajendra Nagar": {
+            "rate": 84.0,
+            "number": 412
+        },
+        "Vyalikaval HBCS Layout": {
+            "rate": 31.0,
+            "number": 413
+        },
+        "Laxmi Colony Hadapsar": {
+            "rate": 38.0,
+            "number": 414
+        },
+        "Somwar Peth": {
+            "rate": 34.0,
+            "number": 415
+        },
+        "Sector 15 Dwarka": {
+            "rate": 32.0,
+            "number": 416
+        },
+        "Chander Vihar": {
+            "rate": 13.0,
+            "number": 417
+        },
+        "Naganathapura": {
+            "rate": 18.0,
+            "number": 418
+        },
+        "Rachenahalli Main Road": {
+            "rate": 26.0,
+            "number": 419
+        },
+        "Kanakapura Road": {
+            "rate": 20.0,
+            "number": 420
+        },
+        "East Of Kailash": {
+            "rate": 32.0,
+            "number": 421
+        },
+        "Bidare Agrahara": {
+            "rate": 13.0,
+            "number": 422
+        },
+        "Pedder Road": {
+            "rate": 188.0,
+            "number": 423
+        },
+        "Banashankari": {
+            "rate": 33.0,
+            "number": 424
+        },
+        "Kanjurmarg": {
+            "rate": 33.0,
+            "number": 425
+        },
+        "Sarvapriya Vihar": {
+            "rate": 83.0,
+            "number": 426
+        },
+        "Uttarahalli": {
+            "rate": 20.0,
+            "number": 427
+        },
+        "Adarsh Nagar Lohegaon": {
+            "rate": 15.0,
+            "number": 428
+        },
+        "Mansarovar garden": {
+            "rate": 30.0,
+            "number": 429
+        },
+        "Greater Kailash": {
+            "rate": 81.0,
+            "number": 430
+        },
+        "Sector R3 Amanora Park Town": {
+            "rate": 45.0,
+            "number": 431
+        },
+        "Amruthnagar": {
+            "rate": 20.0,
+            "number": 432
+        },
+        "Yerawada": {
+            "rate": 60.0,
+            "number": 433
+        },
+        "Sector 17 Rohini": {
+            "rate": 18.0,
+            "number": 434
+        },
+        "Saket": {
+            "rate": 136.0,
+            "number": 435
+        },
+        "Sector 22 Rohini": {
+            "rate": 21.0,
+            "number": 436
+        },
+        "Hingane Mala": {
+            "rate": 31.0,
+            "number": 437
+        },
+        "Agrahara Layout": {
+            "rate": 22.0,
+            "number": 438
+        },
+        "Ashirwad Nagar": {
+            "rate": 11.0,
+            "number": 439
+        },
+        "Indra Park Extension": {
+            "rate": 60.55555555555556,
+            "number": 440
+        },
+        "Hennur Main Road": {
+            "rate": 38.0,
+            "number": 441
+        },
+        "Friends Colony": {
+            "rate": 20.0,
+            "number": 442
+        },
+        "Phase 1st JP Nagar": {
+            "rate": 80.0,
+            "number": 443
+        },
+        "Sector 22 Dwarka": {
+            "rate": 33.0,
+            "number": 444
+        },
+        "Shiva Nagar": {
+            "rate": 45.0,
+            "number": 445
+        },
+        "Vidhana Soudha Layout": {
+            "rate": 13.0,
+            "number": 446
+        },
+        "Gujranwala Town": {
+            "rate": 21.0,
+            "number": 447
+        },
+        "Moti Bagh": {
+            "rate": 9.0,
+            "number": 448
+        },
+        "Nangloi Jat": {
+            "rate": 11.0,
+            "number": 449
+        },
+        "Seegehalli Road": {
+            "rate": 21.0,
+            "number": 450
+        },
+        "Block B4 Safdarjung Enclave": {
+            "rate": 70.0,
+            "number": 451
+        },
+        "Nilothi": {
+            "rate": 11.0,
+            "number": 452
+        },
+        "Hegde Nagar": {
+            "rate": 38.0,
+            "number": 453
+        },
+        "Yelenahalli": {
+            "rate": 46.0,
+            "number": 454
+        },
+        "Sector 7 Dwarka": {
+            "rate": 43.0,
+            "number": 455
+        },
+        "Budh Vihar Phase 2": {
+            "rate": 14.0,
+            "number": 456
+        },
+        "Sukhsagar Nagar": {
+            "rate": 12.0,
+            "number": 457
+        },
+        "MCECHS Layout": {
+            "rate": 39.0,
+            "number": 458
+        },
+        "Kalyani Nagar": {
+            "rate": 57.0,
+            "number": 459
+        },
+        "Kurla West": {
+            "rate": 146.0,
+            "number": 460
+        },
+        "Rajdhani Park": {
+            "rate": 9.0,
+            "number": 461
+        },
+        "Bommanahalli": {
+            "rate": 46.0,
+            "number": 462
+        },
+        "Phursungi": {
+            "rate": 31.0,
+            "number": 463
+        },
+        "Atur Park": {
+            "rate": 83.0,
+            "number": 464
+        },
+        "Vignan Nagar": {
+            "rate": 24.0,
+            "number": 465
+        },
+        "Dange Chowk": {
+            "rate": 23.0,
+            "number": 466
+        },
+        "Bellary Road": {
+            "rate": 21.0,
+            "number": 467
+        },
+        "Chikkakannalli": {
+            "rate": 55.0,
+            "number": 468
+        },
+        "Bachani Nagar": {
+            "rate": 59.0,
+            "number": 469
+        },
+        "Sector 13 Dwarka": {
+            "rate": 88.0,
+            "number": 470
+        },
+        "Jorbagh Tri Nagar": {
+            "rate": 104.0,
+            "number": 471
+        },
+        "Citizen Colony": {
+            "rate": 26.0,
+            "number": 472
+        },
+        "Raheja Vihar": {
+            "rate": 99.0,
+            "number": 473
+        },
+        "Samethanahalli": {
+            "rate": 48.0,
+            "number": 474
+        },
+        "Alaknanda": {
+            "rate": 68.0,
+            "number": 475
+        },
+        "Chandapura": {
+            "rate": 30.0,
+            "number": 476
+        },
+        "Pan Card Club Road": {
+            "rate": 47.0,
+            "number": 477
+        },
+        "Fatima Nagar": {
+            "rate": 28.0,
+            "number": 478
+        },
+        "Akurdi Chikhali Road": {
+            "rate": 30.0,
+            "number": 479
+        },
+        "Mundka": {
+            "rate": 20.0,
+            "number": 480
+        },
+        "Kannamangala": {
+            "rate": 50.0,
+            "number": 481
+        },
+        "Sathanur": {
+            "rate": 34.0,
+            "number": 482
+        },
+        "Lakkasandra Extension": {
+            "rate": 36.0,
+            "number": 483
+        },
+        "Uruli Kanchan": {
+            "rate": 10.0,
+            "number": 484
+        },
+        "Alandi": {
+            "rate": 8.0,
+            "number": 485
+        },
+        "Hardev Nagar": {
+            "rate": 18.0,
+            "number": 486
+        },
+        "Hingne Khurd": {
+            "rate": 41.0,
+            "number": 487
+        },
+        "Kurla East": {
+            "rate": 51.0,
+            "number": 488
+        },
+        "Manjunatha Nagar Kalkere": {
+            "rate": 25.0,
+            "number": 489
+        },
+        "Kohat Enclave": {
+            "rate": 12.0,
+            "number": 490
+        },
+        "Kalewadi Phata": {
+            "rate": 21.0,
+            "number": 491
+        },
+        "Hauz Khas Enclave": {
+            "rate": 53.333333333333336,
+            "number": 492
+        },
+        "Nangloi": {
+            "rate": 15.0,
+            "number": 493
+        },
+        "GK II": {
+            "rate": 65.0,
+            "number": 494
+        },
+        "Green Park": {
+            "rate": 20.0,
+            "number": 495
+        },
+        "Bandra": {
+            "rate": 153.0,
+            "number": 496
+        },
+        "Kundalahalli": {
+            "rate": 28.0,
+            "number": 497
+        },
+        "Pimple Saudagar": {
+            "rate": 31.0,
+            "number": 498
+        },
+        "Hinjewadi Phase 3": {
+            "rate": 29.0,
+            "number": 499
+        },
+        "RHCS Layout": {
+            "rate": 13.0,
+            "number": 500
+        },
+        "Ramesh Nagar": {
+            "rate": 27.0,
+            "number": 501
+        },
+        "Prem Nagar Janakpuri": {
+            "rate": 31.0,
+            "number": 502
+        },
+        "Shivaji Park": {
+            "rate": 141.0,
+            "number": 503
+        },
+        "Bilekahalli": {
+            "rate": 45.0,
+            "number": 504
+        },
+        "Defence Enclave": {
+            "rate": 27.0,
+            "number": 505
+        },
+        "Transit Camp": {
+            "rate": 20.0,
+            "number": 506
+        },
+        "Begur Hulimavu Road": {
+            "rate": 22.0,
+            "number": 507
+        },
+        "Sinhgad Road": {
+            "rate": 16.0,
+            "number": 508
+        },
+        "Rana Pratap Bagh": {
+            "rate": 33.0,
+            "number": 509
+        },
+        "Chinchpokli": {
+            "rate": 76.0,
+            "number": 510
+        },
+        "Adarsh Colony Tingre Nagar": {
+            "rate": 26.0,
+            "number": 511
+        },
+        "Orlem": {
+            "rate": 67.0,
+            "number": 512
+        },
+        "Subs Nagar": {
+            "rate": 37.0,
+            "number": 513
+        },
+        "Kotwal Nagar": {
+            "rate": 26.0,
+            "number": 514
+        },
+        "Sector 1 Dwarka": {
+            "rate": 26.0,
+            "number": 515
+        },
+        "New International Airport Road": {
+            "rate": 23.0,
+            "number": 516
+        },
+        "Prem Nagar Najafgarh": {
+            "rate": 18.0,
+            "number": 517
+        },
+        "Irani Wadi": {
+            "rate": 33.0,
+            "number": 518
+        },
+        "Mayur Vihar 1": {
+            "rate": 42.0,
+            "number": 519
+        },
+        "Bannerghatta": {
+            "rate": 68.0,
+            "number": 520
+        },
+        "Rameshwari": {
+            "rate": 7.0,
+            "number": 521
+        },
+        "Bel Tarodi": {
+            "rate": 18.0,
+            "number": 522
+        },
+        "Azadpur": {
+            "rate": 39.0,
+            "number": 523
+        },
+        "Azad Nagar Wanowrie": {
+            "rate": 16.0,
+            "number": 524
+        },
+        "Versova": {
+            "rate": 350.0,
+            "number": 525
+        },
+        "Yamuna Vihar": {
+            "rate": 46.0,
+            "number": 526
+        },
+        "Sarita Vihar Pocket H": {
+            "rate": 41.0,
+            "number": 527
+        },
+        "Amboli": {
+            "rate": 73.0,
+            "number": 528
+        },
+        "Kamgar Nagar Prabhadevi": {
+            "rate": 138.0,
+            "number": 529
+        },
+        "Badli": {
+            "rate": 11.0,
+            "number": 530
+        },
+        "Shivaji Nagar": {
+            "rate": 36.0,
+            "number": 531
+        },
+        "New Moti Nagar": {
+            "rate": 45.0,
+            "number": 532
+        },
+        "Vikhroli West": {
+            "rate": 28.0,
+            "number": 533
+        },
+        "Lingarajapuram": {
+            "rate": 18.0,
+            "number": 534
+        },
+        "Anand Niketan": {
+            "rate": 105.0,
+            "number": 535
+        },
+        "Greater Kailash Enclave 1": {
+            "rate": 210.0,
+            "number": 536
+        },
+        "Vile Parle West": {
+            "rate": 120.0,
+            "number": 537
+        },
+        "Kudlu Gate": {
+            "rate": 53.0,
+            "number": 538
+        },
+        "Siddhartha Enclave": {
+            "rate": 39.0,
+            "number": 539
+        },
+        "Nandanvan": {
+            "rate": 13.0,
+            "number": 540
+        },
+        "Hinjawadi Wakad Road": {
+            "rate": 42.0,
+            "number": 541
+        },
+        "Munnekollal": {
+            "rate": 28.0,
+            "number": 542
+        },
+        "Veerannapalya": {
+            "rate": 40.0,
+            "number": 543
+        },
+        "Vadgaon": {
+            "rate": 30.0,
+            "number": 544
+        },
+        "Janakpuri": {
+            "rate": 44.0,
+            "number": 545
+        },
+        "Pai Layout Mahadevapura": {
+            "rate": 27.0,
+            "number": 546
+        },
+        "Shastri Nagar Andheri West": {
+            "rate": 103.0,
+            "number": 547
+        },
+        "Ramamurthy Nagar": {
+            "rate": 18.0,
+            "number": 548
+        },
+        "Sector 11 Rohini": {
+            "rate": 32.0,
+            "number": 549
+        },
+        "Gopal Nagar Extension": {
+            "rate": 24.0,
+            "number": 550
+        },
+        "Vikaspuri Block F": {
+            "rate": 19.444444444444443,
+            "number": 551
+        },
+        "Central Avenue": {
+            "rate": 20.0,
+            "number": 552
+        },
+        "Janakpuri Block B1": {
+            "rate": 29.0,
+            "number": 553
+        },
+        "Dapodi": {
+            "rate": 27.0,
+            "number": 554
+        },
+        "Wardhaman Nagar": {
+            "rate": 11.0,
+            "number": 555
+        },
+        "Bengaluru Kanakapura Road": {
+            "rate": 22.0,
+            "number": 556
+        },
+        "Jamtha": {
+            "rate": 15.0,
+            "number": 557
+        },
+        "Najafgarh": {
+            "rate": 15.0,
+            "number": 558
+        },
+        "Narela": {
+            "rate": 11.0,
+            "number": 559
+        },
+        "Shanti Nagar": {
+            "rate": 40.0,
+            "number": 560
+        },
+        "Umred Road": {
+            "rate": 11.0,
+            "number": 561
+        },
+        "Badarpur": {
+            "rate": 12.0,
+            "number": 562
+        },
+        "Rayasandra Main Road": {
+            "rate": 31.0,
+            "number": 563
+        },
+        "Nagapura": {
+            "rate": 32.0,
+            "number": 564
+        },
+        "Bhandup East": {
+            "rate": 42.0,
+            "number": 565
+        },
+        "Gulshan Nagar": {
+            "rate": 88.0,
+            "number": 566
+        },
+        "Chokhandi": {
+            "rate": 275.0,
+            "number": 567
+        },
+        "Pamposh Enclave": {
+            "rate": 21.0,
+            "number": 568
+        },
+        "Manik Baug": {
+            "rate": 20.0,
+            "number": 569
+        },
+        "Mico Layout": {
+            "rate": 19.0,
+            "number": 570
+        },
+        "Nana Peth": {
+            "rate": 27.0,
+            "number": 571
+        },
+        "Central Area": {
+            "rate": 80.0,
+            "number": 572
+        },
+        "Palam Colony": {
+            "rate": 28.0,
+            "number": 573
+        },
+        "Kempapura": {
+            "rate": 20.0,
+            "number": 574
+        },
+        "Wagholi Road": {
+            "rate": 14.0,
+            "number": 575
+        },
+        "Vigyan Vihar": {
+            "rate": 25.0,
+            "number": 576
+        },
+        "Dilshad Garden": {
+            "rate": 27.0,
+            "number": 577
+        },
+        "Jhilmil Colony": {
+            "rate": 8.0,
+            "number": 578
+        },
+        "Siddharth Nagar Goregaon West": {
+            "rate": 91.0,
+            "number": 579
+        },
+        "Sarjapur": {
+            "rate": 40.0,
+            "number": 580
+        },
+        "Patparganj": {
+            "rate": 50.0,
+            "number": 581
+        },
+        "Koregaon Park": {
+            "rate": 14.0,
+            "number": 582
+        },
+        "Khanpur": {
+            "rate": 15.0,
+            "number": 583
+        },
+        "Vipin Garden Extension North Block": {
+            "rate": 18.0,
+            "number": 584
+        },
+        "Rajaji Nagar Block 2": {
+            "rate": 23.0,
+            "number": 585
+        },
+        "Sri Balaji Layout": {
+            "rate": 21.0,
+            "number": 586
+        },
+        "Moshi": {
+            "rate": 19.0,
+            "number": 587
+        },
+        "Dahanukar Wadi": {
+            "rate": 72.0,
+            "number": 588
+        },
+        "Nagpada": {
+            "rate": 84.0,
+            "number": 589
+        },
+        "Bindapur": {
+            "rate": 18.0,
+            "number": 590
+        },
+        "Judicial Layout": {
+            "rate": 22.0,
+            "number": 591
+        },
+        "Gunjur": {
+            "rate": 44.0,
+            "number": 592
+        },
+        "Cox Town": {
+            "rate": 42.0,
+            "number": 593
+        },
+        "Singasandra": {
+            "rate": 29.0,
+            "number": 594
+        },
+        "New Rohtak Road": {
+            "rate": 53.0,
+            "number": 595
+        },
+        "Geetanjali Enclave": {
+            "rate": 45.0,
+            "number": 596
+        },
+        "Sector 7 Rohini": {
+            "rate": 44.0,
+            "number": 597
+        },
+        "Govandi": {
+            "rate": 33.0,
+            "number": 598
+        },
+        "Narsala": {
+            "rate": 17.0,
+            "number": 599
+        },
+        "Bharati Vidyapeeth Campus": {
+            "rate": 26.0,
+            "number": 600
+        },
+        "Block C Bhajanpura": {
+            "rate": 12.0,
+            "number": 601
+        },
+        "Aarey Colony": {
+            "rate": 55.0,
+            "number": 602
+        },
+        "GTB Enclave": {
+            "rate": 233.0,
+            "number": 603
+        },
+        "Singapura": {
+            "rate": 12.0,
+            "number": 604
+        },
+        "Dharampeth": {
+            "rate": 25.0,
+            "number": 605
+        },
+        "Girgaon": {
+            "rate": 133.0,
+            "number": 606
+        },
+        "Paschim Vihar": {
+            "rate": 35.0,
+            "number": 607
+        },
+        "Kale Padal": {
+            "rate": 5.0,
+            "number": 608
+        },
+        "Attibele Anekal Road": {
+            "rate": 21.0,
+            "number": 609
+        },
+        "Matunga": {
+            "rate": 149.0,
+            "number": 610
+        },
+        "Indira nagar Stage 1": {
+            "rate": 59.0,
+            "number": 611
+        },
+        "Vijay Nagar": {
+            "rate": 38.0,
+            "number": 612
+        },
+        "Manohar Park": {
+            "rate": 29.0,
+            "number": 613
+        },
+        "Bhavani Peth": {
+            "rate": 29.0,
+            "number": 614
+        },
+        "Kodathi": {
+            "rate": 35.0,
+            "number": 615
+        },
+        "Dhankawadi": {
+            "rate": 20.0,
+            "number": 616
+        },
+        "Kamakshipalya": {
+            "rate": 8.0,
+            "number": 617
+        },
+        "Mullur": {
+            "rate": 28.0,
+            "number": 618
+        },
+        "Malka Ganj": {
+            "rate": 33.333333333333336,
+            "number": 619
+        },
+        "ECC Road": {
+            "rate": 35.0,
+            "number": 620
+        },
+        "Hebbal Kempapura": {
+            "rate": 35.0,
+            "number": 621
+        },
+        "Naraina": {
+            "rate": 33.0,
+            "number": 622
+        },
+        "Narendra Nagar": {
+            "rate": 29.0,
+            "number": 623
+        },
+        "Chintamani Society Manjari Budruk": {
+            "rate": 12.0,
+            "number": 624
+        },
+        "RMV Extension": {
+            "rate": 20.0,
+            "number": 625
+        },
+        "Western Express Highway": {
+            "rate": 265.0,
+            "number": 626
+        },
+        "Mahim": {
+            "rate": 62.0,
+            "number": 627
+        },
+        "Koppa": {
+            "rate": 8.0,
+            "number": 628
+        },
+        "Binnamangala Stage 1 Indiranagar": {
+            "rate": 64.0,
+            "number": 629
+        },
+        "Sadashiva Nagar": {
+            "rate": 57.0,
+            "number": 630
+        },
+        "Vasanth Nagar": {
+            "rate": 50.0,
+            "number": 631
+        },
+        "Sagarpur": {
+            "rate": 15.0,
+            "number": 632
+        },
+        "Pali Naka": {
+            "rate": 250.0,
+            "number": 633
+        },
+        "Byramji Town": {
+            "rate": 14.0,
+            "number": 634
+        },
+        "Handewadi Road": {
+            "rate": 18.0,
+            "number": 635
+        },
+        "Channasandra": {
+            "rate": 22.0,
+            "number": 636
+        },
+        "Rachenahalli": {
+            "rate": 26.0,
+            "number": 637
+        },
+        "Mohammed Wadi": {
+            "rate": 31.0,
+            "number": 638
+        },
+        "Ashram": {
+            "rate": 150.0,
+            "number": 639
+        },
+        "Ghatkopar East": {
+            "rate": 56.0,
+            "number": 640
+        },
+        "Zingabai Takali": {
+            "rate": 14.0,
+            "number": 641
+        },
+        "Ghorpadi": {
+            "rate": 46.0,
+            "number": 642
+        },
+        "Breach Candy": {
+            "rate": 155.0,
+            "number": 643
+        },
+        "Kothrud": {
+            "rate": 38.0,
+            "number": 644
+        },
+        "Maruthi Nagar Attiguppe": {
+            "rate": 30.0,
+            "number": 645
+        },
+        "Pashan": {
+            "rate": 31.0,
+            "number": 646
+        },
+        "Bandra Kurla Complex": {
+            "rate": 268.0,
+            "number": 647
+        },
+        "Keshav Puram": {
+            "rate": 28.0,
+            "number": 648
+        },
+        "Patel Nagar East": {
+            "rate": 28.0,
+            "number": 649
+        },
+        "Razapur Khurd": {
+            "rate": 15.0,
+            "number": 650
+        },
+        "HAL Old Airport Road": {
+            "rate": 42.0,
+            "number": 651
+        },
+        "Old Baner Balewadi Road": {
+            "rate": 31.0,
+            "number": 652
+        },
+        "Kondhwa": {
+            "rate": 23.0,
+            "number": 653
+        },
+        "90 Feet Road": {
+            "rate": 54.0,
+            "number": 654
+        },
+        "Tughlakabad Extension": {
+            "rate": 200.0,
+            "number": 655
+        },
+        "Lajpat Nagar 2": {
+            "rate": 64.0,
+            "number": 656
+        },
+        "Pankha Road": {
+            "rate": 18.0,
+            "number": 657
+        },
+        "Sector 28 Dwarka": {
+            "rate": 28.0,
+            "number": 658
+        },
+        "Deonar Farm Road": {
+            "rate": 82.0,
+            "number": 659
+        },
+        "Pandey Layout": {
+            "rate": 22.0,
+            "number": 660
+        },
+        "Mumbai Central": {
+            "rate": 115.0,
+            "number": 661
+        },
+        "Mysore Road": {
+            "rate": 26.0,
+            "number": 662
+        },
+        "Utkarsh Nagar": {
+            "rate": 80.0,
+            "number": 663
+        },
+        "Sector 1 Rohini": {
+            "rate": 18.0,
+            "number": 664
+        },
+        "Shakti Nagar": {
+            "rate": 20.0,
+            "number": 665
+        },
+        "Talacauvery Layout": {
+            "rate": 27.0,
+            "number": 666
+        },
+        "Sakal Nagar": {
+            "rate": 14.0,
+            "number": 667
+        },
+        "Teachers Colony": {
+            "rate": 110.0,
+            "number": 668
+        },
+        "Lakshmipura": {
+            "rate": 15.0,
+            "number": 669
+        },
+        "Vipin Garden": {
+            "rate": 17.0,
+            "number": 670
+        },
+        "Colaba": {
+            "rate": 200.0,
+            "number": 671
+        },
+        "Siddapur": {
+            "rate": 19.0,
+            "number": 672
+        },
+        "Shadipur": {
+            "rate": 48.0,
+            "number": 673
+        },
+        "Basavanagudi": {
+            "rate": 20.0,
+            "number": 674
+        },
+        "Vibhutipura": {
+            "rate": 8.0,
+            "number": 675
+        },
+        "Baljit Nagar": {
+            "rate": 18.0,
+            "number": 676
+        },
+        "Mouza Shankarpur": {
+            "rate": 13.0,
+            "number": 677
+        },
+        "Sion Chunabhatti": {
+            "rate": 64.0,
+            "number": 678
+        },
+        "Kalyan Nagar": {
+            "rate": 26.0,
+            "number": 679
+        },
+        "Abbaiah Reddy Layout": {
+            "rate": 18.0,
+            "number": 680
+        },
+        "Tathawade": {
+            "rate": 29.0,
+            "number": 681
+        },
+        "Block 3rd Koramangala": {
+            "rate": 63.0,
+            "number": 682
+        },
+        "Rajaji Nagar": {
+            "rate": 142.0,
+            "number": 683
+        },
+        "Kondhwa Budruk": {
+            "rate": 17.0,
+            "number": 684
+        },
+        "Mangammanapalya": {
+            "rate": 20.0,
+            "number": 685
+        },
+        "Govindpuri": {
+            "rate": 49.0,
+            "number": 686
+        },
+        "Eklavya Colony": {
+            "rate": 35.0,
+            "number": 687
+        },
+        "Preet Vihar": {
+            "rate": 30.0,
+            "number": 688
+        },
+        "Johripur": {
+            "rate": 14.0,
+            "number": 689
+        },
+        "Basai Darapur": {
+            "rate": 41.0,
+            "number": 690
+        },
+        "Sewri": {
+            "rate": 86.0,
+            "number": 691
+        },
+        "IP Extension": {
+            "rate": 15.0,
+            "number": 692
+        },
+        "IC Colony": {
+            "rate": 70.0,
+            "number": 693
+        },
+        "Rohtak Road": {
+            "rate": 40.0,
+            "number": 694
+        },
+        "Banashankari Stage 2": {
+            "rate": 10.0,
+            "number": 695
+        },
+        "Dhayari": {
+            "rate": 11.0,
+            "number": 696
+        },
+        "Bhatwadi Ghatkopar West": {
+            "rate": 32.0,
+            "number": 697
+        },
+        "Sector D Vasant Kunj": {
+            "rate": 85.0,
+            "number": 698
+        },
+        "Ejipura": {
+            "rate": 16.0,
+            "number": 699
+        },
+        "Kanakapura": {
+            "rate": 26.0,
+            "number": 700
+        },
+        "Seegehalli KR Puram": {
+            "rate": 16.0,
+            "number": 701
+        },
+        "Punjabi Bagh": {
+            "rate": 26.0,
+            "number": 702
+        },
+        "Annapurneshwari Nagar": {
+            "rate": 17.0,
+            "number": 703
+        },
+        "Dwarka": {
+            "rate": 33.0,
+            "number": 704
+        },
+        "Pratap Nagar": {
+            "rate": 26.0,
+            "number": 705
+        },
+        "Ghatkopar": {
+            "rate": 50.0,
+            "number": 706
+        },
+        "Sector 17 Dwarka": {
+            "rate": 38.0,
+            "number": 707
+        },
+        "Raj Nagar 2": {
+            "rate": 33.0,
+            "number": 708
+        },
+        "Vasant Kunj": {
+            "rate": 75.0,
+            "number": 709
+        },
+        "Sector 3 Rohini": {
+            "rate": 19.0,
+            "number": 710
+        },
+        "Teachers Colony -HSR Layout": {
+            "rate": 40.0,
+            "number": 711
+        },
+        "Vikas Puri Extension Part 1": {
+            "rate": 17.0,
+            "number": 712
+        },
+        "Sector 2 Charkop": {
+            "rate": 48.0,
+            "number": 713
+        },
+        "Nirankari Colony": {
+            "rate": 100.0,
+            "number": 714
+        },
+        "Hari Nagar": {
+            "rate": 17.0,
+            "number": 715
+        },
+        "Haiderpur": {
+            "rate": 21.0,
+            "number": 716
+        },
+        "Sector 10 Dwarka": {
+            "rate": 24.0,
+            "number": 717
+        },
+        "Kalu Sarai": {
+            "rate": 34.0,
+            "number": 718
+        },
+        "C2 Block Janakpuri": {
+            "rate": 8.0,
+            "number": 719
+        },
+        "BTM Layout Stage 1": {
+            "rate": 57.0,
+            "number": 720
+        },
+        "Saki Naka": {
+            "rate": 34.0,
+            "number": 721
+        },
+        "Sector 16 Rohini": {
+            "rate": 33.0,
+            "number": 722
+        },
+        "Sector C Vasant Kunj": {
+            "rate": 42.0,
+            "number": 723
+        },
+        "Tyagi Colony Nangloi Extension": {
+            "rate": 27.0,
+            "number": 724
+        },
+        "Sadahalli Main Road": {
+            "rate": 85.0,
+            "number": 725
+        },
+        "Hosa Road": {
+            "rate": 36.0,
+            "number": 726
+        },
+        "Chakala MIDC": {
+            "rate": 71.0,
+            "number": 727
+        },
+        "EON Free Zone": {
+            "rate": 52.0,
+            "number": 728
+        },
+        "RS Palya": {
+            "rate": 13.0,
+            "number": 729
+        },
+        "Mayur Vihar": {
+            "rate": 42.0,
+            "number": 730
+        },
+        "Lokhandwala Complex Andheri West": {
+            "rate": 107.0,
+            "number": 731
+        },
+        "Chamundeshwari Layout": {
+            "rate": 158.0,
+            "number": 732
+        },
+        "Block 7th Jayanagar": {
+            "rate": 30.0,
+            "number": 733
+        },
+        "Sector B Vasant Kunj": {
+            "rate": 7.0,
+            "number": 734
+        },
+        "Mindspace": {
+            "rate": 120.0,
+            "number": 735
+        },
+        "Block 5th Jayanagar": {
+            "rate": 67.0,
+            "number": 736
+        },
+        "Kalina": {
+            "rate": 70.0,
+            "number": 737
+        },
+        "Rajpur Khurd Extension": {
+            "rate": 140.0,
+            "number": 738
+        },
+        "Devli": {
+            "rate": 11.0,
+            "number": 739
+        },
+        "Ravet": {
+            "rate": 16.0,
+            "number": 740
+        },
+        "Rama Park": {
+            "rate": 11.0,
+            "number": 741
+        },
+        "Bapuji Nagar": {
+            "rate": 17.0,
+            "number": 742
+        },
+        "Begur": {
+            "rate": 45.0,
+            "number": 743
+        },
+        "Yelahanka Air Force base": {
+            "rate": 25.0,
+            "number": 744
+        },
+        "Shiv Vihar": {
+            "rate": 12.0,
+            "number": 745
+        },
+        "Bhalswa": {
+            "rate": 19.0,
+            "number": 746
+        },
+        "Ganganagar": {
+            "rate": 15.0,
+            "number": 747
+        },
+        "Sector 18 Dwarka": {
+            "rate": 33.0,
+            "number": 748
+        },
+        "LIC Colony Vile Parle West": {
+            "rate": 110.0,
+            "number": 749
+        },
+        "Sukhdev Vihar": {
+            "rate": 31.11111111111111,
+            "number": 750
+        },
+        "Thite Nagar": {
+            "rate": 86.0,
+            "number": 751
+        },
+        "Tardeo": {
+            "rate": 70.0,
+            "number": 752
+        },
+        "Hinjewadi Rajiv Gandhi Infotech Park": {
+            "rate": 50.0,
+            "number": 753
+        },
+        "Sompura": {
+            "rate": 74.0,
+            "number": 754
+        },
+        "Palam": {
+            "rate": 18.0,
+            "number": 755
+        },
+        "Vadgaon Budruk": {
+            "rate": 14.0,
+            "number": 756
+        },
+        "Nanded": {
+            "rate": 19.0,
+            "number": 757
+        },
+        "Shell Colony": {
+            "rate": 70.0,
+            "number": 758
+        },
+        "Murugeshpalya": {
+            "rate": 35.0,
+            "number": 759
+        },
+        "Tihar Village": {
+            "rate": 50.0,
+            "number": 760
+        },
+        "Mohan Garden": {
+            "rate": 16.0,
+            "number": 761
+        },
+        "Spencer Road": {
+            "rate": 20.0,
+            "number": 762
+        },
+        "Poorvi Pitampura": {
+            "rate": 28.0,
+            "number": 763
+        },
+        "Margondanahalli": {
+            "rate": 18.0,
+            "number": 764
+        },
+        "Babusahib Palya": {
+            "rate": 38.0,
+            "number": 765
+        },
+        "J Block Saket": {
+            "rate": 36.0,
+            "number": 766
+        },
+        "Subhash Road": {
+            "rate": 8.0,
+            "number": 767
+        },
+        "Udaya nagar": {
+            "rate": 20.0,
+            "number": 768
+        },
+        "Molarband": {
+            "rate": 8.0,
+            "number": 769
+        },
+        "Dahisar East": {
+            "rate": 52.0,
+            "number": 770
+        },
+        "Jigani": {
+            "rate": 14.0,
+            "number": 771
+        },
+        "Gujarat Vihar": {
+            "rate": 25.666666666666668,
+            "number": 772
+        },
+        "Sector 25 Dwarka": {
+            "rate": 11.0,
+            "number": 773
+        },
+        "Chichbhavan Main Road": {
+            "rate": 25.0,
+            "number": 774
+        },
+        "Ramagondanahalli-Whitefield": {
+            "rate": 62.0,
+            "number": 775
+        },
+        "Juhu": {
+            "rate": 131.0,
+            "number": 776
+        },
+        "Nagondanahalli": {
+            "rate": 27.0,
+            "number": 777
+        },
+        "Prabhat Road": {
+            "rate": 60.0,
+            "number": 778
+        },
+        "Ambalipura Sarjapur Road": {
+            "rate": 35.0,
+            "number": 779
+        },
+        "Kanjurmarg West": {
+            "rate": 84.0,
+            "number": 780
+        },
+        "Shahu nagar": {
+            "rate": 19.0,
+            "number": 781
+        },
+        "Sector 26 Dwarka": {
+            "rate": 31.0,
+            "number": 782
+        },
+        "Jhandewalan": {
+            "rate": 45.0,
+            "number": 783
+        },
+        "Devarabisanahalli": {
+            "rate": 30.0,
+            "number": 784
+        },
+        "Green Park Extension": {
+            "rate": 46.0,
+            "number": 785
+        },
+        "Hudkeshwar Road": {
+            "rate": 19.0,
+            "number": 786
+        },
+        "Nahur East": {
+            "rate": 34.0,
+            "number": 787
+        },
+        "Phase 2nd JP Nagar": {
+            "rate": 32.0,
+            "number": 788
+        },
+        "Khamla": {
+            "rate": 20.0,
+            "number": 789
+        },
+        "Goyla Village": {
+            "rate": 98.0,
+            "number": 790
+        },
+        "Mangolpuri": {
+            "rate": 13.0,
+            "number": 791
+        },
+        "Chandra Nagar": {
+            "rate": 27.0,
+            "number": 792
+        },
+        "Worli Hill Road": {
+            "rate": 123.0,
+            "number": 793
+        },
+        "Gowalia Tank": {
+            "rate": 179.0,
+            "number": 794
+        },
+        "Malwadi": {
+            "rate": 26.0,
+            "number": 795
+        },
+        "Doddanekundi": {
+            "rate": 33.0,
+            "number": 796
+        },
+        "Block B Sewak Park": {
+            "rate": 270.0,
+            "number": 797
+        },
+        "Basavanagar Main Road": {
+            "rate": 23.0,
+            "number": 798
+        },
+        "Shyam Vihar 2": {
+            "rate": 13.0,
+            "number": 799
+        },
+        "Dasghara": {
+            "rate": 22.0,
+            "number": 800
+        },
+        "Mallathahalli": {
+            "rate": 24.0,
+            "number": 801
+        },
+        "Jharoda Majra": {
+            "rate": 16.0,
+            "number": 802
+        },
+        "Bhoslenagar Ashok Naga": {
+            "rate": 45.0,
+            "number": 803
+        },
+        "Hunasamaranahalli": {
+            "rate": 82.0,
+            "number": 804
+        },
+        "Sector 25 Rohini": {
+            "rate": 15.0,
+            "number": 805
+        },
+        "Dutta Nagar": {
+            "rate": 12.0,
+            "number": 806
+        },
+        "Anand Vihar": {
+            "rate": 25.0,
+            "number": 807
+        },
+        "Anant Nagar": {
+            "rate": 15.0,
+            "number": 808
+        },
+        "New Patel Nagar": {
+            "rate": 20.0,
+            "number": 809
+        },
+        "Inlaks Nagar": {
+            "rate": 104.0,
+            "number": 810
+        },
+        "Tukdoji Nagar": {
+            "rate": 13.0,
+            "number": 811
+        },
+        "Sangam Vihar": {
+            "rate": 30.0,
+            "number": 812
+        },
+        "Bhagwan Das Nagar": {
+            "rate": 47.0,
+            "number": 813
+        },
+        "Lohegaon Wagholi Road": {
+            "rate": 13.0,
+            "number": 814
+        },
+        "RMV Extension Stage 2": {
+            "rate": 24.0,
+            "number": 815
+        },
+        "Sector 28 Rohini": {
+            "rate": 18.0,
+            "number": 816
+        },
+        "Union Park": {
+            "rate": 151.0,
+            "number": 817
+        },
+        "Munirka": {
+            "rate": 38.0,
+            "number": 818
+        },
+        "Chimaji Nagar": {
+            "rate": 55.0,
+            "number": 819
+        },
+        "HBR Layout": {
+            "rate": 24.0,
+            "number": 820
+        },
+        "Bhoganhalli": {
+            "rate": 72.0,
+            "number": 821
+        },
+        "Medical Square": {
+            "rate": 10.0,
+            "number": 822
+        },
+        "Sanewadi": {
+            "rate": 27.0,
+            "number": 823
+        },
+        "Rajpur Khurd": {
+            "rate": 15.0,
+            "number": 824
+        },
+        "Karala": {
+            "rate": 11.0,
+            "number": 825
+        },
+        "Vidyaranyapura": {
+            "rate": 20.0,
+            "number": 826
+        },
+        "Maidan Garhi": {
+            "rate": 14.444444444444445,
+            "number": 827
+        },
+        "Basavanagara": {
+            "rate": 14.0,
+            "number": 828
+        },
+        "Bhagwan Tatyasaheb Kawade Road": {
+            "rate": 36.0,
+            "number": 829
+        },
+        "Sector 35 Rohini": {
+            "rate": 11.0,
+            "number": 830
+        },
+        "Model Colony": {
+            "rate": 33.0,
+            "number": 831
+        },
+        "Soladevanahalli": {
+            "rate": 9.0,
+            "number": 832
+        },
+        "Vasundhara Enclave": {
+            "rate": 21.0,
+            "number": 833
+        },
+        "Subhash Nagar Bhandup West": {
+            "rate": 67.0,
+            "number": 834
+        },
+        "Hosur Road": {
+            "rate": 53.0,
+            "number": 835
+        },
+        "Kothnur": {
+            "rate": 22.0,
+            "number": 836
+        },
+        "Shastri Park": {
+            "rate": 24.0,
+            "number": 837
+        },
+        "GTB Nagar": {
+            "rate": 11.0,
+            "number": 838
+        },
+        "Warje": {
+            "rate": 32.0,
+            "number": 839
+        },
+        "Jayanagar": {
+            "rate": 49.0,
+            "number": 840
+        },
+        "Lajpat Nagar 1": {
+            "rate": 42.0,
+            "number": 841
+        },
+        "Jogeshwari West": {
+            "rate": 109.0,
+            "number": 842
+        },
+        "Gorai 1": {
+            "rate": 39.0,
+            "number": 843
+        },
+        "Sri Niwaspuri": {
+            "rate": 16.0,
+            "number": 844
+        },
+        "Dhantoli": {
+            "rate": 27.0,
+            "number": 845
+        },
+        "Mitganahalli": {
+            "rate": 29.0,
+            "number": 846
+        },
+        "Sanjayanagara": {
+            "rate": 27.0,
+            "number": 847
+        },
+        "Panchsheel Park": {
+            "rate": 100.0,
+            "number": 848
+        },
+        "Jagatpuri": {
+            "rate": 51.0,
+            "number": 849
+        },
+        "Halasuru": {
+            "rate": 26.0,
+            "number": 850
+        },
+        "Kariyammana Agrahara": {
+            "rate": 38.0,
+            "number": 851
+        },
+        "Kabir Nagar Vijay Park": {
+            "rate": 22.0,
+            "number": 852
+        },
+        "Ghodbunder Road": {
+            "rate": 25.0,
+            "number": 853
+        },
+        "Mysore Colony": {
+            "rate": 53.0,
+            "number": 854
+        },
+        "Nagarbhavi": {
+            "rate": 11.0,
+            "number": 855
+        },
+        "Mankapur": {
+            "rate": 25.0,
+            "number": 856
+        },
+        "JP Nagar": {
+            "rate": 24.0,
+            "number": 857
+        },
+        "Hastsal": {
+            "rate": 12.0,
+            "number": 858
+        },
+        "Qutub Vihar": {
+            "rate": 12.0,
+            "number": 859
+        },
+        "Airport Road": {
+            "rate": 25.0,
+            "number": 860
+        },
+        "Talaghattapura": {
+            "rate": 32.0,
+            "number": 861
+        },
+        "Marenahalli - Vijaynagar": {
+            "rate": 13.0,
+            "number": 862
+        },
+        "Marathahalli village": {
+            "rate": 46.0,
+            "number": 863
+        },
+        "JC Nagar-Kurubarahalli": {
+            "rate": 21.0,
+            "number": 864
+        },
+        "Veerasandra": {
+            "rate": 15.0,
+            "number": 865
+        },
+        "Mandawali": {
+            "rate": 16.0,
+            "number": 866
+        },
+        "Mahalakshmi": {
+            "rate": 113.0,
+            "number": 867
+        },
+        "Mahendru Enclave": {
+            "rate": 26.0,
+            "number": 868
+        },
+        "Mavalli": {
+            "rate": 25.0,
+            "number": 869
+        },
+        "Phase 1 Sivagiri Township": {
+            "rate": 20.0,
+            "number": 870
+        },
+        "Thirumenahalli": {
+            "rate": 21.0,
+            "number": 871
+        },
+        "Shivane": {
+            "rate": 12.0,
+            "number": 872
+        },
+        "Matiala": {
+            "rate": 20.0,
+            "number": 873
+        },
+        "Mumbai CST Area": {
+            "rate": 150.0,
+            "number": 874
+        },
+        "Halanayakanahalli": {
+            "rate": 35.0,
+            "number": 875
+        },
+        "Baner Mahalunge Road": {
+            "rate": 59.0,
+            "number": 876
+        },
+        "Nari Road": {
+            "rate": 35.0,
+            "number": 877
+        },
+        "Nizamuddin East": {
+            "rate": 60.0,
+            "number": 878
+        },
+        "Saswad Road": {
+            "rate": 11.0,
+            "number": 879
+        },
+        "Ghitorni": {
+            "rate": 18.0,
+            "number": 880
+        },
+        "Palace Cross Road": {
+            "rate": 38.0,
+            "number": 881
+        },
+        "Jaitpur Extension Part 2": {
+            "rate": 107.0,
+            "number": 882
+        },
+        "Block 3rd Jayanagar East": {
+            "rate": 42.0,
+            "number": 883
+        },
+        "Shankar Sheth Road": {
+            "rate": 48.0,
+            "number": 884
+        },
+        "Guru Harikishan Nagar": {
+            "rate": 35.888888888888886,
+            "number": 885
+        },
+        "Basaveshwar Nagar": {
+            "rate": 35.0,
+            "number": 886
+        },
+        "Pul Prahlad Pur": {
+            "rate": 34.0,
+            "number": 887
+        },
+        "K Channasandra": {
+            "rate": 24.0,
+            "number": 888
+        },
+        "Eden Gardens": {
+            "rate": 18.0,
+            "number": 889
+        },
+        "Krishna Nagar-Safdarjung Enclave": {
+            "rate": 38.0,
+            "number": 890
+        },
+        "Marol": {
+            "rate": 143.0,
+            "number": 891
+        },
+        "Srigandha Nagar": {
+            "rate": 20.0,
+            "number": 892
+        },
+        "Mahavir Enclave": {
+            "rate": 30.0,
+            "number": 893
+        },
+        "Bhuvaneshwari Nagar": {
+            "rate": 42.0,
+            "number": 894
+        },
+        "Bajaj Nagar": {
+            "rate": 46.0,
+            "number": 895
+        },
+        "Patel Nagar South": {
+            "rate": 33.0,
+            "number": 896
+        },
+        "South Extension 2": {
+            "rate": 18.0,
+            "number": 897
+        },
+        "Shiv Nagar": {
+            "rate": 27.11111111111111,
+            "number": 898
+        },
+        "Vishwas Nagar": {
+            "rate": 16.0,
+            "number": 899
+        },
+        "Bhapkar Mala": {
+            "rate": 19.0,
+            "number": 900
+        },
+        "Virupakshapura": {
+            "rate": 15.0,
+            "number": 901
+        },
+        "Mahatma Gandhi Road": {
+            "rate": 60.0,
+            "number": 902
+        },
+        "Swastik Park": {
+            "rate": 49.0,
+            "number": 903
+        },
+        "Valepura": {
+            "rate": 10.0,
+            "number": 904
+        },
+        "Dhayari Phata Road": {
+            "rate": 19.0,
+            "number": 905
+        },
+        "Koradi Road": {
+            "rate": 11.0,
+            "number": 906
+        },
+        "Bijwasan": {
+            "rate": 11.0,
+            "number": 907
+        },
+        "Kapashera Samalkha Road": {
+            "rate": 48.0,
+            "number": 908
+        },
+        "Doddaballapur Main Road": {
+            "rate": 13.0,
+            "number": 909
+        },
+        "Badarpur Extension": {
+            "rate": 20.0,
+            "number": 910
+        },
+        "Rajaji Nagar Block 1": {
+            "rate": 42.0,
+            "number": 911
+        },
+        "Isasani": {
+            "rate": 10.0,
+            "number": 912
+        },
+        "Electronics City Phase 1": {
+            "rate": 22.0,
+            "number": 913
+        },
+        "Mallasandra Village": {
+            "rate": 38.0,
+            "number": 914
+        },
+        "Dadar East": {
+            "rate": 184.0,
+            "number": 915
+        },
+        "Bhagwan Nagar": {
+            "rate": 52.0,
+            "number": 916
+        },
+        "Central Avenue Road": {
+            "rate": 114.0,
+            "number": 917
+        },
+        "Lashkari Bagh": {
+            "rate": 12.0,
+            "number": 918
+        },
+        "D Block Saket": {
+            "rate": 67.0,
+            "number": 919
+        },
+        "Kadugodi": {
+            "rate": 20.0,
+            "number": 920
+        },
+        "Mayur Vihar Phase 2": {
+            "rate": 56.0,
+            "number": 921
+        },
+        "Kanjurmarg East": {
+            "rate": 83.0,
+            "number": 922
+        },
+        "Hinjewadi Phase 2": {
+            "rate": 53.0,
+            "number": 923
+        },
+        "Kailash Colony": {
+            "rate": 68.0,
+            "number": 924
+        },
+        "Mayur Vihar Phase 3": {
+            "rate": 20.0,
+            "number": 925
+        },
+        "Tagore Garden": {
+            "rate": 33.0,
+            "number": 926
+        },
+        "Uttam Nagar West": {
+            "rate": 31.0,
+            "number": 927
+        },
+        "Chamrajpet": {
+            "rate": 30.0,
+            "number": 928
+        },
+        "Sandesh Vihar": {
+            "rate": 27.0,
+            "number": 929
+        },
+        "Upper Worli": {
+            "rate": 308.0,
+            "number": 930
+        },
+        "Jhadavwadi Road": {
+            "rate": 18.0,
+            "number": 931
+        },
+        "Jawahar Nagar": {
+            "rate": 105.0,
+            "number": 932
+        },
+        "Uttari Pitampura": {
+            "rate": 29.0,
+            "number": 933
+        },
+        "Kithaganur Main Road": {
+            "rate": 18.0,
+            "number": 934
+        },
+        "Amrut Nagar Ghatkopar West": {
+            "rate": 100.0,
+            "number": 935
+        },
+        "Binaki Mangal Barj": {
+            "rate": 10.0,
+            "number": 936
+        },
+        "Chindwara Road": {
+            "rate": 15.0,
+            "number": 937
+        },
+        "Devipada": {
+            "rate": 90.0,
+            "number": 938
+        },
+        "Dadar": {
+            "rate": 138.0,
+            "number": 939
+        },
+        "Maharani Bagh": {
+            "rate": 60.0,
+            "number": 940
+        },
+        "Saini Enclave": {
+            "rate": 15.444444444444445,
+            "number": 941
+        },
+        "MHADA Colony Mulund East": {
+            "rate": 60.0,
+            "number": 942
+        },
+        "Asola": {
+            "rate": 14.0,
+            "number": 943
+        },
+        "Datta Nagar Thergaon": {
+            "rate": 32.0,
+            "number": 944
+        },
+        "Beadon Pura": {
+            "rate": 36.0,
+            "number": 945
+        },
+        "Kogilu Main Road": {
+            "rate": 33.0,
+            "number": 946
+        },
+        "Salisbury Park": {
+            "rate": 26.0,
+            "number": 947
+        },
+        "Mangolpur Kalan": {
+            "rate": 21.0,
+            "number": 948
+        },
+        "Tilak Nagar Chembur": {
+            "rate": 77.0,
+            "number": 949
+        },
+        "Bettadasanapura": {
+            "rate": 17.0,
+            "number": 950
+        },
+        "Ajit Nagar": {
+            "rate": 54.0,
+            "number": 951
+        },
+        "Lal Baug": {
+            "rate": 60.0,
+            "number": 952
+        },
+        "Walkeshwar": {
+            "rate": 150.0,
+            "number": 953
+        },
+        "Tri Nagar": {
+            "rate": 15.0,
+            "number": 954
+        },
+        "Narayanaghatta": {
+            "rate": 29.0,
+            "number": 955
+        },
+        "Phase 2 Hinjawadi": {
+            "rate": 37.0,
+            "number": 956
+        },
+        "Devarachikkana Halli": {
+            "rate": 15.0,
+            "number": 957
+        },
+        "Chikkabanavara": {
+            "rate": 19.0,
+            "number": 958
+        },
+        "Thambu Chetty Palya": {
+            "rate": 10.0,
+            "number": 959
+        },
+        "Samalkha": {
+            "rate": 36.0,
+            "number": 960
+        },
+        "Uttam Nagar East": {
+            "rate": 24.0,
+            "number": 961
+        },
+        "Sector 12 Dwarka": {
+            "rate": 25.0,
+            "number": 962
+        },
+        "Block 2nd JayaNagar East": {
+            "rate": 39.0,
+            "number": 963
+        },
+        "Kishangarh": {
+            "rate": 30.0,
+            "number": 964
+        },
+        "Shivajinagar": {
+            "rate": 52.0,
+            "number": 965
+        },
+        "Phase 1st MCECHS Layout": {
+            "rate": 23.0,
+            "number": 966
+        },
+        "Ketkipada": {
+            "rate": 29.0,
+            "number": 967
+        },
+        "Andrahalli": {
+            "rate": 11.0,
+            "number": 968
+        },
+        "Hadosiddapura": {
+            "rate": 42.0,
+            "number": 969
+        },
+        "Savitri Nagar Village": {
+            "rate": 31.77777777777778,
+            "number": 970
+        },
+        "Malleshpalya Main Road": {
+            "rate": 11.0,
+            "number": 971
+        },
+        "Thergaon": {
+            "rate": 30.0,
+            "number": 972
+        },
+        "Kalubai Nagar": {
+            "rate": 13.0,
+            "number": 973
+        },
+        "Baner Road": {
+            "rate": 53.0,
+            "number": 974
+        },
+        "Jangpura": {
+            "rate": 45.0,
+            "number": 975
+        },
+        "Chennammana Kere": {
+            "rate": 10.0,
+            "number": 976
+        },
+        "Goregaon Mulund Link Road": {
+            "rate": 76.0,
+            "number": 977
+        },
+        "Garodia Nagar": {
+            "rate": 70.0,
+            "number": 978
+        },
+        "Kala Nagar": {
+            "rate": 220.0,
+            "number": 979
+        },
+        "Tingre Nagar": {
+            "rate": 20.0,
+            "number": 980
+        },
+        "Meenakshi Layout Choodasandra": {
+            "rate": 20.0,
+            "number": 981
+        },
+        "Basavanna Nagar": {
+            "rate": 41.0,
+            "number": 982
+        },
+        "Talegaon Dabhade": {
+            "rate": 17.0,
+            "number": 983
+        },
+        "Jacob Circle": {
+            "rate": 125.0,
+            "number": 984
+        },
+        "Cambridge Layout": {
+            "rate": 250.0,
+            "number": 985
+        },
+        "Qutub Vihar Phase 1": {
+            "rate": 13.0,
+            "number": 986
+        },
+        "Seelampur": {
+            "rate": 30.0,
+            "number": 987
+        },
+        "Sun City": {
+            "rate": 23.0,
+            "number": 988
+        },
+        "Tilak Nagar Goregaon West": {
+            "rate": 67.0,
+            "number": 989
+        },
+        "BCC Layout": {
+            "rate": 33.0,
+            "number": 990
+        },
+        "Bhumkar Nagar": {
+            "rate": 37.0,
+            "number": 991
+        },
+        "Shyam Nagar": {
+            "rate": 16.0,
+            "number": 992
+        },
+        "Block 4th Jayanagar": {
+            "rate": 39.0,
+            "number": 993
+        },
+        "Mithapur": {
+            "rate": 8.0,
+            "number": 994
+        },
+        "Naraina Village": {
+            "rate": 21.0,
+            "number": 995
+        },
+        "Khirki Extension": {
+            "rate": 22.0,
+            "number": 996
+        },
+        "Dehu": {
+            "rate": 14.0,
+            "number": 997
+        },
+        "Pune Solapur Highway": {
+            "rate": 8.0,
+            "number": 998
+        },
+        "Nahar Nagar": {
+            "rate": 86.0,
+            "number": 999
+        },
+        "Mahadevapura Layout": {
+            "rate": 28.0,
+            "number": 1000
+        },
+        "Richmond Town": {
+            "rate": 105.0,
+            "number": 1001
+        },
+        "Panchsheel Enclave": {
+            "rate": 579.0,
+            "number": 1002
+        },
+        "Wadki": {
+            "rate": 6.0,
+            "number": 1003
+        },
+        "Munireddy Layout": {
+            "rate": 13.0,
+            "number": 1004
+        },
+        "Pimple Gurav": {
+            "rate": 20.0,
+            "number": 1005
+        },
+        "Manewada Square": {
+            "rate": 28.0,
+            "number": 1006
+        },
+        "Pandav Nagar": {
+            "rate": 21.0,
+            "number": 1007
+        },
+        "Pant Nagar": {
+            "rate": 99.0,
+            "number": 1008
+        },
+        "Roop Nagar": {
+            "rate": 7.0,
+            "number": 1009
+        },
+        "Jivan Park Rani Bagh": {
+            "rate": 18.0,
+            "number": 1010
+        },
+        "Bhandarkar Road": {
+            "rate": 50.0,
+            "number": 1011
+        },
+        "Rakshak Nagar": {
+            "rate": 31.0,
+            "number": 1012
+        },
+        "Nagegowdanapalya": {
+            "rate": 20.0,
+            "number": 1013
+        },
+        "Tagore Nagar": {
+            "rate": 94.0,
+            "number": 1014
+        },
+        "Doddakallasandra": {
+            "rate": 33.0,
+            "number": 1015
+        },
+        "Chandan Nagar": {
+            "rate": 18.0,
+            "number": 1016
+        },
+        "Subhash Nagar": {
+            "rate": 21.0,
+            "number": 1017
+        },
+        "Koramangala 80 Feet Road": {
+            "rate": 52.0,
+            "number": 1018
+        },
+        "Hauz Khas": {
+            "rate": 60.0,
+            "number": 1019
+        },
+        "Gavane Pada": {
+            "rate": 104.0,
+            "number": 1020
+        },
+        "Tulaja Bhawani Nagar": {
+            "rate": 42.0,
+            "number": 1021
+        },
+        "Nisarga Nandana Layout": {
+            "rate": 14.0,
+            "number": 1022
+        },
+        "Yellappa Chetty Layout": {
+            "rate": 170.0,
+            "number": 1023
+        },
+        "Papareddipalya": {
+            "rate": 12.0,
+            "number": 1024
+        },
+        "Ashok Vihar Phase 3": {
+            "rate": 43.0,
+            "number": 1025
+        },
+        "Nerul": {
+            "rate": 41.0,
+            "number": 1026
+        },
+        "Gavanpada": {
+            "rate": 63.0,
+            "number": 1027
+        },
+        "Nehru Nagar": {
+            "rate": 29.0,
+            "number": 1028
+        },
+        "Inderpuri": {
+            "rate": 40.0,
+            "number": 1029
+        },
+        "Sitapuri": {
+            "rate": 17.0,
+            "number": 1030
+        },
+        "Kogilu": {
+            "rate": 23.0,
+            "number": 1031
+        },
+        "Kasba Peth": {
+            "rate": 23.0,
+            "number": 1032
+        },
+        "Dashrath Puri": {
+            "rate": 22.0,
+            "number": 1033
+        },
+        "Ambegaon Pathar Road": {
+            "rate": 10.0,
+            "number": 1034
+        },
+        "Shanthala Nagar": {
+            "rate": 38.0,
+            "number": 1035
+        },
+        "Dighori": {
+            "rate": 15.0,
+            "number": 1036
+        },
+        "Kemps Corner": {
+            "rate": 201.0,
+            "number": 1037
+        },
+        "Bharat Vihar": {
+            "rate": 22.0,
+            "number": 1038
+        },
+        "Lal Bahadur Shastri Road": {
+            "rate": 44.0,
+            "number": 1039
+        },
+        "Nimbalkar Nagar Lohegaon": {
+            "rate": 11.0,
+            "number": 1040
+        },
+        "Wakadewadi": {
+            "rate": 32.0,
+            "number": 1041
+        },
+        "HRBR Layout Block 1": {
+            "rate": 32.0,
+            "number": 1042
+        },
+        "Kammagondahalli": {
+            "rate": 11.0,
+            "number": 1043
+        },
+        "Kannuru": {
+            "rate": 41.0,
+            "number": 1044
+        },
+        "Balewadi Gaon": {
+            "rate": 39.0,
+            "number": 1045
+        },
+        "Dattwadi": {
+            "rate": 11.0,
+            "number": 1046
+        },
+        "Punjabi Bagh West": {
+            "rate": 64.0,
+            "number": 1047
+        },
+        "Laxmi Bai Nagar": {
+            "rate": 56.0,
+            "number": 1048
+        },
+        "Moshi High Street": {
+            "rate": 38.0,
+            "number": 1049
+        },
+        "Kabool Nagar": {
+            "rate": 18.0,
+            "number": 1050
+        },
+        "Ashok Nagar Kandivali East": {
+            "rate": 42.0,
+            "number": 1051
+        },
+        "Bagaluru": {
+            "rate": 38.0,
+            "number": 1052
+        },
+        "Yeswanthpur": {
+            "rate": 40.0,
+            "number": 1053
+        },
+        "Block 5th Koramangala": {
+            "rate": 31.0,
+            "number": 1054
+        },
+        "Ayappa Nagar KR Puram": {
+            "rate": 19.0,
+            "number": 1055
+        },
+        "Viveka Nagar": {
+            "rate": 37.0,
+            "number": 1056
+        },
+        "Patilnagar Chikhali": {
+            "rate": 16.0,
+            "number": 1057
+        },
+        "Mate Nagar": {
+            "rate": 25.0,
+            "number": 1058
+        },
+        "Doddathoguru": {
+            "rate": 22.0,
+            "number": 1059
+        },
+        "Pratik Nagar Mohanwadi": {
+            "rate": 16.0,
+            "number": 1060
+        },
+        "BDA layout-HSR Layout": {
+            "rate": 29.0,
+            "number": 1061
+        },
+        "T Dasarahalli": {
+            "rate": 91.0,
+            "number": 1062
+        },
+        "Sector 34 Rohini": {
+            "rate": 9.0,
+            "number": 1063
+        },
+        "Bahadura": {
+            "rate": 10.0,
+            "number": 1064
+        },
+        "Khadakwasla": {
+            "rate": 10.0,
+            "number": 1065
+        },
+        "Ambazari": {
+            "rate": 27.0,
+            "number": 1066
+        },
+        "HRBR Layout": {
+            "rate": 34.0,
+            "number": 1067
+        },
+        "Thakur Complex": {
+            "rate": 88.0,
+            "number": 1068
+        },
+        "Bengaluru Main Road": {
+            "rate": 17.0,
+            "number": 1069
+        },
+        "Panathur": {
+            "rate": 43.0,
+            "number": 1070
+        },
+        "Rustam Bagh Layout": {
+            "rate": 50.0,
+            "number": 1071
+        },
+        "Poonam Nagar Jogeshwari East": {
+            "rate": 97.0,
+            "number": 1072
+        },
+        "Teen Batti": {
+            "rate": 167.0,
+            "number": 1073
+        },
+        "Sector A6 Narela": {
+            "rate": 40.0,
+            "number": 1074
+        },
+        "Mandakini Enclave": {
+            "rate": 43.0,
+            "number": 1075
+        },
+        "Chikkanna Layout": {
+            "rate": 35.0,
+            "number": 1076
+        },
+        "Vishwakarma Colony": {
+            "rate": 8.0,
+            "number": 1077
+        },
+        "Vasanth Vihar AWHO": {
+            "rate": 23.0,
+            "number": 1078
+        },
+        "Kodigenahalli": {
+            "rate": 20.0,
+            "number": 1079
+        },
+        "Bhyraveshwara Nagar": {
+            "rate": 37.0,
+            "number": 1080
+        },
+        "Ram Krishna Nagar": {
+            "rate": 29.0,
+            "number": 1081
+        },
+        "Nagasandra Main Road": {
+            "rate": 33.0,
+            "number": 1082
+        },
+        "Greater Kailash 4 NRI Colony": {
+            "rate": 59.0,
+            "number": 1083
+        },
+        "Sanaswadi": {
+            "rate": 17.0,
+            "number": 1084
+        },
+        "Satya Niketan": {
+            "rate": 48.0,
+            "number": 1085
+        },
+        "Nallurhalli": {
+            "rate": 37.0,
+            "number": 1086
+        },
+        "Huvinayakanahalli": {
+            "rate": 24.0,
+            "number": 1087
+        },
+        "Kadubeesanahalli": {
+            "rate": 21.0,
+            "number": 1088
+        },
+        "Lulla Nagar": {
+            "rate": 27.0,
+            "number": 1089
+        },
+        "Dahisar": {
+            "rate": 23.0,
+            "number": 1090
+        },
+        "V Kallahalli": {
+            "rate": 27.0,
+            "number": 1091
+        },
+        "Greater Kailash 2 E Block": {
+            "rate": 68.0,
+            "number": 1092
+        },
+        "Mohamadwadi Settlement": {
+            "rate": 31.0,
+            "number": 1093
+        },
+        "Block B Rajouri Garden": {
+            "rate": 34.0,
+            "number": 1094
+        },
+        "Ganesh Peth": {
+            "rate": 21.0,
+            "number": 1095
+        },
+        "Gulmohar Park": {
+            "rate": 69.0,
+            "number": 1096
+        },
+        "Swavlambi Nagar": {
+            "rate": 6.0,
+            "number": 1097
+        },
+        "Ring Road": {
+            "rate": 62.0,
+            "number": 1098
+        },
+        "Borgaon": {
+            "rate": 9.0,
+            "number": 1099
+        },
+        "Gandhi Nagar Upper Worli": {
+            "rate": 181.0,
+            "number": 1100
+        },
+        "New Ashok Nagar": {
+            "rate": 30.0,
+            "number": 1101
+        },
+        "Aditya nagar": {
+            "rate": 17.0,
+            "number": 1102
+        },
+        "Model Town Phase 3": {
+            "rate": 27.0,
+            "number": 1103
+        },
+        "Vijaya Bank Layout Bommanahalli": {
+            "rate": 38.0,
+            "number": 1104
+        },
+        "Sita Buldi": {
+            "rate": 25.0,
+            "number": 1105
+        },
+        "Spine Road": {
+            "rate": 26.0,
+            "number": 1106
+        },
+        "Sitapuri Extension 2": {
+            "rate": 12.0,
+            "number": 1107
+        },
+        "Konanakunte": {
+            "rate": 35.0,
+            "number": 1108
+        },
+        "Deccan Gymkhana": {
+            "rate": 50.0,
+            "number": 1109
+        },
+        "Oshiwara": {
+            "rate": 40.0,
+            "number": 1110
+        },
+        "Parande Nagar": {
+            "rate": 40.0,
+            "number": 1111
+        },
+        "Sector 6 HSR Layout": {
+            "rate": 46.0,
+            "number": 1112
+        },
+        "Sion Hospital Colony": {
+            "rate": 71.0,
+            "number": 1113
+        },
+        "Bhosari": {
+            "rate": 27.0,
+            "number": 1114
+        },
+        "Acharya Niketan": {
+            "rate": 27.77777777777778,
+            "number": 1115
+        },
+        "Nirgudi Road": {
+            "rate": 10.0,
+            "number": 1116
+        },
+        "Vishal Nagar": {
+            "rate": 28.0,
+            "number": 1117
+        },
+        "Mahalakshmipuram Layout": {
+            "rate": 30.0,
+            "number": 1118
+        },
+        "Dabhai": {
+            "rate": 16.0,
+            "number": 1119
+        },
+        "Garmal": {
+            "rate": 24.0,
+            "number": 1120
+        },
+        "New Friends Colony": {
+            "rate": 83.0,
+            "number": 1121
+        },
+        "Arekere": {
+            "rate": 20.0,
+            "number": 1122
+        },
+        "Madhuban Colony Old Sangvi": {
+            "rate": 14.0,
+            "number": 1123
+        },
+        "Ashok Vihar Phase 1": {
+            "rate": 39.0,
+            "number": 1124
+        },
+        "Chikhali": {
+            "rate": 26.0,
+            "number": 1125
+        },
+        "Kiran Garden": {
+            "rate": 19.0,
+            "number": 1126
+        },
+        "Mahadev Nagar Dhayari": {
+            "rate": 10.0,
+            "number": 1127
+        },
+        "Lajpat Nagar 4": {
+            "rate": 51.0,
+            "number": 1128
+        },
+        "Anand Gram": {
+            "rate": 14.0,
+            "number": 1129
+        },
+        "Morevasti": {
+            "rate": 12.0,
+            "number": 1130
+        },
+        "Chittaranjan Park Block C": {
+            "rate": 43.0,
+            "number": 1131
+        },
+        "Pirangut": {
+            "rate": 11.0,
+            "number": 1132
+        },
+        "Tukai Nagar Vadgaon Budruk": {
+            "rate": 28.0,
+            "number": 1133
+        },
+        "Sector 9 Charkop": {
+            "rate": 61.0,
+            "number": 1134
+        },
+        "Baba Colony": {
+            "rate": 132.0,
+            "number": 1135
+        },
+        "Hinjewadi Phase 1": {
+            "rate": 48.0,
+            "number": 1136
+        },
+        "Marve Road": {
+            "rate": 64.0,
+            "number": 1137
+        },
+        "Pirojshanagar": {
+            "rate": 143.0,
+            "number": 1138
+        },
+        "Lonikand": {
+            "rate": 10.0,
+            "number": 1139
+        },
+        "Suryanagar": {
+            "rate": 14.0,
+            "number": 1140
+        },
+        "Block BP Shalimar Bagh": {
+            "rate": 23.0,
+            "number": 1141
+        },
+        "Ambedkar Colony Ambedkar Nagar": {
+            "rate": 50.0,
+            "number": 1142
+        },
+        "Lal Bahadur Shastri Nagar Dahisar West": {
+            "rate": 67.0,
+            "number": 1143
+        },
+        "East of Kailash Block B": {
+            "rate": 50.0,
+            "number": 1144
+        },
+        "Mankhurd": {
+            "rate": 97.0,
+            "number": 1145
+        },
+        "Tarun Bharat Society": {
+            "rate": 50.0,
+            "number": 1146
+        },
+        "New Kondli": {
+            "rate": 29.666666666666668,
+            "number": 1147
+        },
+        "Uday Baug": {
+            "rate": 38.0,
+            "number": 1148
+        },
+        "Neb Sarai Saket": {
+            "rate": 23.0,
+            "number": 1149
+        },
+        "Kumaraswamy Layout": {
+            "rate": 20.0,
+            "number": 1150
+        },
+        "Block 4 Subhash Nagar": {
+            "rate": 27.0,
+            "number": 1151
+        },
+        "Vikaspuri Block J": {
+            "rate": 21.0,
+            "number": 1152
+        },
+        "Brigade Metropolis": {
+            "rate": 38.0,
+            "number": 1153
+        },
+        "NelaMangala": {
+            "rate": 10.0,
+            "number": 1154
+        },
+        "Sindhi Colony Sion": {
+            "rate": 80.0,
+            "number": 1155
+        },
+        "Govind Nagar Borivali West": {
+            "rate": 74.0,
+            "number": 1156
+        },
+        "Ghatkopar West": {
+            "rate": 43.0,
+            "number": 1157
+        },
+        "Naidu Colony": {
+            "rate": 78.0,
+            "number": 1158
+        },
+        "Bhayandar East": {
+            "rate": 12.0,
+            "number": 1159
+        },
+        "Bhusari Colony": {
+            "rate": 36.0,
+            "number": 1160
+        },
+        "NIBM Annexe": {
+            "rate": 33.0,
+            "number": 1161
+        },
+        "Bopodi": {
+            "rate": 33.0,
+            "number": 1162
+        },
+        "Ganga Nagar Layout": {
+            "rate": 163.0,
+            "number": 1163
+        },
+        "IVC Road": {
+            "rate": 51.0,
+            "number": 1164
+        },
+        "Kamshet": {
+            "rate": 33.0,
+            "number": 1165
+        },
+        "Dakshinpuri": {
+            "rate": 24.0,
+            "number": 1166
+        },
+        "Janakpuri Block C2A": {
+            "rate": 34.0,
+            "number": 1167
+        },
+        "Sunder Nagar": {
+            "rate": 118.0,
+            "number": 1168
+        },
+        "Kad Nagar": {
+            "rate": 36.0,
+            "number": 1169
+        },
+        "Teka": {
+            "rate": 10.0,
+            "number": 1170
+        },
+        "Datta Nagar": {
+            "rate": 13.0,
+            "number": 1171
+        },
+        "Sarita Vihar Pocket L": {
+            "rate": 28.0,
+            "number": 1172
+        },
+        "1st Block East": {
+            "rate": 33.0,
+            "number": 1173
+        },
+        "near Optima Heights": {
+            "rate": 23.0,
+            "number": 1174
+        },
+        "Sarjapura Attibele Road": {
+            "rate": 20.0,
+            "number": 1175
+        },
+        "Hanuman Nagar": {
+            "rate": 27.0,
+            "number": 1176
+        },
+        "Sector 6 Rohini": {
+            "rate": 19.0,
+            "number": 1177
+        },
+        "Paryavaran Complex": {
+            "rate": 24.0,
+            "number": 1178
+        },
+        "Jakkuru Main Road": {
+            "rate": 33.0,
+            "number": 1179
+        },
+        "Vijayanagar": {
+            "rate": 22.0,
+            "number": 1180
+        },
+        "Jakkasandra Extension": {
+            "rate": 18.0,
+            "number": 1181
+        },
+        "Madhuranagara": {
+            "rate": 20.0,
+            "number": 1182
+        },
+        "Hadapsar Road": {
+            "rate": 19.0,
+            "number": 1183
+        },
+        "Gandhi Bazar": {
+            "rate": 35.0,
+            "number": 1184
+        },
+        "Punjabi Bagh East": {
+            "rate": 22.0,
+            "number": 1185
+        },
+        "Matunga East": {
+            "rate": 133.0,
+            "number": 1186
+        },
+        "Mangdewadi": {
+            "rate": 12.0,
+            "number": 1187
+        },
+        "Adugodi": {
+            "rate": 22.0,
+            "number": 1188
+        },
+        "Michael Palya": {
+            "rate": 24.0,
+            "number": 1189
+        },
+        "Ramna Maruti": {
+            "rate": 8.0,
+            "number": 1190
+        },
+        "Hindu Colony": {
+            "rate": 173.0,
+            "number": 1191
+        },
+        "Bhau Patil Road": {
+            "rate": 34.0,
+            "number": 1192
+        },
+        "Abhyudaya Nagar": {
+            "rate": 80.0,
+            "number": 1193
+        },
+        "Brindavan Nagar Mathikere": {
+            "rate": 25.0,
+            "number": 1194
+        },
+        "Block R Mohan Garden Razapur Khurd": {
+            "rate": 29.0,
+            "number": 1195
+        },
+        "Chittaranjan Park Block A": {
+            "rate": 38.0,
+            "number": 1196
+        },
+        "Bank Colony Konanakunte": {
+            "rate": 20.0,
+            "number": 1197
+        },
+        "Dhirpur Village": {
+            "rate": 13.0,
+            "number": 1198
+        },
+        "Shahpur Jat": {
+            "rate": 300.0,
+            "number": 1199
+        },
+        "Shahdara": {
+            "rate": 21.0,
+            "number": 1200
+        },
+        "Byatarayanapura New Extension": {
+            "rate": 13.0,
+            "number": 1201
+        },
+        "Madhav Nagar": {
+            "rate": 32.0,
+            "number": 1202
+        },
+        "Bhageerath": {
+            "rate": 21.0,
+            "number": 1203
+        },
+        "Sakkardara": {
+            "rate": 10.0,
+            "number": 1204
+        },
+        "Block 1st JayaNagar": {
+            "rate": 50.0,
+            "number": 1205
+        },
+        "Hoskote Road": {
+            "rate": 18.0,
+            "number": 1206
+        },
+        "Block BH Shalimar Bagh": {
+            "rate": 27.0,
+            "number": 1207
+        },
+        "Jeevan Bima Nagar": {
+            "rate": 41.0,
+            "number": 1208
+        },
+        "Bileshivale": {
+            "rate": 215.0,
+            "number": 1209
+        },
+        "Anand Nagar Dahisar East": {
+            "rate": 58.0,
+            "number": 1210
+        },
+        "Shyam Vihar Phase 1": {
+            "rate": 20.0,
+            "number": 1211
+        },
+        "Balewadi Gaon Road": {
+            "rate": 45.0,
+            "number": 1212
+        },
+        "Old Shahabad Muhammad Pur": {
+            "rate": 17.0,
+            "number": 1213
+        },
+        "Dattawadi": {
+            "rate": 36.0,
+            "number": 1214
+        },
+        "Pai Layout Hulimavu": {
+            "rate": 21.0,
+            "number": 1215
+        },
+        "Ganji Bagh": {
+            "rate": 22.0,
+            "number": 1216
+        },
+        "Tavarekere BTM Layout": {
+            "rate": 21.0,
+            "number": 1217
+        },
+        "Bhosale Nagar": {
+            "rate": 36.0,
+            "number": 1218
+        },
+        "Bolinj": {
+            "rate": 10.0,
+            "number": 1219
+        },
+        "Basavanapura": {
+            "rate": 13.0,
+            "number": 1220
+        },
+        "Sector 5 Dwarka": {
+            "rate": 30.0,
+            "number": 1221
+        },
+        "Gokuldham": {
+            "rate": 108.0,
+            "number": 1222
+        },
+        "Dahanukar Colony": {
+            "rate": 35.0,
+            "number": 1223
+        },
+        "Karawal Nagar": {
+            "rate": 11.0,
+            "number": 1224
+        },
+        "Lonavala": {
+            "rate": 24.0,
+            "number": 1225
+        },
+        "Adchini": {
+            "rate": 45.0,
+            "number": 1226
+        },
+        "Shirgaon": {
+            "rate": 28.0,
+            "number": 1227
+        },
+        "Padam Nagar": {
+            "rate": 22.0,
+            "number": 1228
+        },
+        "Nizamuddin West": {
+            "rate": 44.0,
+            "number": 1229
+        },
+        "Chakkarwera": {
+            "rate": 17.0,
+            "number": 1230
+        },
+        "New Mahavir Nagar": {
+            "rate": 18.0,
+            "number": 1231
+        },
+        "Babhai Naka - Borivali West": {
+            "rate": 71.0,
+            "number": 1232
+        },
+        "Amrutahalli": {
+            "rate": 26.0,
+            "number": 1233
+        },
+        "Pannase Layout": {
+            "rate": 14.0,
+            "number": 1234
+        },
+        "Old Palam Road": {
+            "rate": 80.0,
+            "number": 1235
+        },
+        "Shalimar Bagh AG Block": {
+            "rate": 57.11111111111112,
+            "number": 1236
+        },
+        "Gaikwad Nagar Malad West": {
+            "rate": 58.0,
+            "number": 1237
+        },
+        "Chunchanakuppe": {
+            "rate": 11.0,
+            "number": 1238
+        },
+        "Tata Nagar": {
+            "rate": 22.0,
+            "number": 1239
+        },
+        "Kadugondanahalli": {
+            "rate": 17.0,
+            "number": 1240
+        },
+        "Ghodapdeo": {
+            "rate": 69.0,
+            "number": 1241
+        },
+        "Agar Bazar": {
+            "rate": 133.0,
+            "number": 1242
+        },
+        "Kodigehalli": {
+            "rate": 27.0,
+            "number": 1243
+        },
+        "Sector 6 Pocket 2 Dwarka": {
+            "rate": 27.0,
+            "number": 1244
+        },
+        "Green Woods layout": {
+            "rate": 15.0,
+            "number": 1245
+        },
+        "Sector 4 Rohini": {
+            "rate": 20.0,
+            "number": 1246
+        },
+        "Hoysalanagar": {
+            "rate": 30.0,
+            "number": 1247
+        },
+        "Bharat Nagar New Friends Colony": {
+            "rate": 62.0,
+            "number": 1248
+        },
+        "Tejaswini Nagar Phase 1": {
+            "rate": 21.0,
+            "number": 1249
+        },
+        "Kanaka Nagar": {
+            "rate": 50.0,
+            "number": 1250
+        },
+        "Hesarghatta Road": {
+            "rate": 12.0,
+            "number": 1251
+        },
+        "Block 3rd Narayana Nagar": {
+            "rate": 20.0,
+            "number": 1252
+        },
+        "Rohini": {
+            "rate": 29.0,
+            "number": 1253
+        },
+        "ITPL Main Road": {
+            "rate": 25.0,
+            "number": 1254
+        },
+        "Kattigenahalli": {
+            "rate": 21.0,
+            "number": 1255
+        },
+        "Bharat Nagar": {
+            "rate": 26.0,
+            "number": 1256
+        },
+        "Banashankari stage 6": {
+            "rate": 36.0,
+            "number": 1257
+        },
+        "Talegaon Dabhade R": {
+            "rate": 7.0,
+            "number": 1258
+        },
+        "Sangam Vihar Wazirabad": {
+            "rate": 12.0,
+            "number": 1259
+        },
+        "Thigalarapalya": {
+            "rate": 5.0,
+            "number": 1260
+        },
+        "Manakpura": {
+            "rate": 28.0,
+            "number": 1261
+        },
+        "Infantry Road": {
+            "rate": 30.0,
+            "number": 1262
+        },
+        "Basapura": {
+            "rate": 43.0,
+            "number": 1263
+        },
+        "Malleshwaram": {
+            "rate": 32.0,
+            "number": 1264
+        },
+        "Bhakti Park": {
+            "rate": 100.0,
+            "number": 1265
+        },
+        "Chhattarpur Enclave Phase 2": {
+            "rate": 31.0,
+            "number": 1266
+        },
+        "Kharbi": {
+            "rate": 21.0,
+            "number": 1267
+        },
+        "Nehru Enclave": {
+            "rate": 22.0,
+            "number": 1268
+        },
+        "Co operative Group Housing Societies Pitampura": {
+            "rate": 30.0,
+            "number": 1269
+        },
+        "Rainbow Drive": {
+            "rate": 46.0,
+            "number": 1270
+        },
+        "Prashant Vihar": {
+            "rate": 26.0,
+            "number": 1271
+        },
+        "Shanti Kunj": {
+            "rate": 308.0,
+            "number": 1272
+        },
+        "Mahipalpur Village": {
+            "rate": 44.0,
+            "number": 1273
+        },
+        "Adhyapak Nagar": {
+            "rate": 17.0,
+            "number": 1274
+        },
+        "Sector 18 Rohini": {
+            "rate": 17.0,
+            "number": 1275
+        },
+        "Sutarwadi": {
+            "rate": 29.0,
+            "number": 1276
+        },
+        "Cooke Town": {
+            "rate": 43.0,
+            "number": 1277
+        },
+        "Basaveshwara HBCS Layout": {
+            "rate": 15.0,
+            "number": 1278
+        },
+        "MC Layout": {
+            "rate": 24.0,
+            "number": 1279
+        },
+        "Kishan Ganj": {
+            "rate": 29.0,
+            "number": 1280
+        },
+        "Silicon Town": {
+            "rate": 19.0,
+            "number": 1281
+        },
+        "Kasturi Nagar": {
+            "rate": 27.0,
+            "number": 1282
+        },
+        "Marathahalli Sarjapur Outer Ring Road": {
+            "rate": 50.0,
+            "number": 1283
+        },
+        "Rajanukunte": {
+            "rate": 68.0,
+            "number": 1284
+        },
+        "Yemalur": {
+            "rate": 103.0,
+            "number": 1285
+        },
+        "Model Town": {
+            "rate": 20.0,
+            "number": 1286
+        },
+        "Vaiduwadi Hadapsar": {
+            "rate": 17.0,
+            "number": 1287
+        },
+        "Mazgaon": {
+            "rate": 103.0,
+            "number": 1288
+        },
+        "Tigri": {
+            "rate": 15.0,
+            "number": 1289
+        },
+        "Kumara park West": {
+            "rate": 30.0,
+            "number": 1290
+        },
+        "Shiv Nagar Extension": {
+            "rate": 270.0,
+            "number": 1291
+        },
+        "Santacruz": {
+            "rate": 239.0,
+            "number": 1292
+        },
+        "Kalena Agrahara": {
+            "rate": 28.0,
+            "number": 1293
+        },
+        "Grant Road": {
+            "rate": 31.0,
+            "number": 1294
+        },
+        "Devappa Layout": {
+            "rate": 21.0,
+            "number": 1295
+        },
+        "Greater Kailash Enclave 2": {
+            "rate": 46.0,
+            "number": 1296
+        },
+        "Pathanwadi": {
+            "rate": 118.0,
+            "number": 1297
+        },
+        "Panchshil Enclave": {
+            "rate": 40.22222222222222,
+            "number": 1298
+        },
+        "New Multan Nagar": {
+            "rate": 33.0,
+            "number": 1299
+        },
+        "D Group Layout": {
+            "rate": 17.0,
+            "number": 1300
+        },
+        "Shastrinagar": {
+            "rate": 33.0,
+            "number": 1301
+        },
+        "Kurar Village": {
+            "rate": 65.0,
+            "number": 1302
+        },
+        "Cleveland Town": {
+            "rate": 45.0,
+            "number": 1303
+        },
+        "Koramangala Block 4": {
+            "rate": 38.0,
+            "number": 1304
+        },
+        "Chowdeshwari Layout Marathahalli Village": {
+            "rate": 27.0,
+            "number": 1305
+        },
+        "Wazir Nagar": {
+            "rate": 24.0,
+            "number": 1306
+        },
+        "Reshim Bagh": {
+            "rate": 17.0,
+            "number": 1307
+        },
+        "Lajwanti Garden": {
+            "rate": 22.22222222222222,
+            "number": 1308
+        },
+        "Talawade Road": {
+            "rate": 14.0,
+            "number": 1309
+        },
+        "Triveni Nagar Hadapsar": {
+            "rate": 21.0,
+            "number": 1310
+        },
+        "Patteghar Palya Main Road": {
+            "rate": 17.0,
+            "number": 1311
+        },
+        "Kengeri": {
+            "rate": 23.0,
+            "number": 1312
+        },
+        "Rahate Colony": {
+            "rate": 19.0,
+            "number": 1313
+        },
+        "Maruthi Nagar Yelahanka": {
+            "rate": 55.0,
+            "number": 1314
+        },
+        "Chikkalasandra": {
+            "rate": 20.0,
+            "number": 1315
+        },
+        "Nandini Layout": {
+            "rate": 19.0,
+            "number": 1316
+        },
+        "Ganga Vihar": {
+            "rate": 18.0,
+            "number": 1317
+        },
+        "Kirti Nagar New Sanghavi": {
+            "rate": 19.0,
+            "number": 1318
+        },
+        "Chakala": {
+            "rate": 76.0,
+            "number": 1319
+        },
+        "Nalasopara East": {
+            "rate": 16.0,
+            "number": 1320
+        },
+        "Nara": {
+            "rate": 26.0,
+            "number": 1321
+        },
+        "Kaikondrahalli": {
+            "rate": 36.0,
+            "number": 1322
+        },
+        "Dehu Phata": {
+            "rate": 17.0,
+            "number": 1323
+        },
+        "Chikkagubbi Village": {
+            "rate": 51.0,
+            "number": 1324
+        },
+        "Dhanori Lohegaon Road": {
+            "rate": 18.0,
+            "number": 1325
+        },
+        "Sainik Farm": {
+            "rate": 20.0,
+            "number": 1326
+        },
+        "Sector 8 Charkop": {
+            "rate": 63.0,
+            "number": 1327
+        },
+        "New Ranjeet Nagar": {
+            "rate": 14.0,
+            "number": 1328
+        },
+        "AECS Layout Block A": {
+            "rate": 24.0,
+            "number": 1329
+        },
+        "Battarahalli": {
+            "rate": 39.0,
+            "number": 1330
+        },
+        "Jaripatka": {
+            "rate": 15.0,
+            "number": 1331
+        },
+        "Jankalyan Nagar": {
+            "rate": 82.0,
+            "number": 1332
+        },
+        "Sector 3 Dwarka": {
+            "rate": 20.0,
+            "number": 1333
+        },
+        "Banashankari Stage 3": {
+            "rate": 24.0,
+            "number": 1334
+        },
+        "Kengeri Main Road": {
+            "rate": 20.0,
+            "number": 1335
+        },
+        "Doopanahalli": {
+            "rate": 37.0,
+            "number": 1336
+        },
+        "Park Road": {
+            "rate": 151.0,
+            "number": 1337
+        },
+        "Juhu Scheme": {
+            "rate": 167.0,
+            "number": 1338
+        },
+        "Old Mahavir Nagar": {
+            "rate": 29.0,
+            "number": 1339
+        },
+        "Ambedkar Nagar Kondhwa": {
+            "rate": 16.0,
+            "number": 1340
+        },
+        "Kalpataru Estate Road": {
+            "rate": 40.0,
+            "number": 1341
+        },
+        "Puttanahalli": {
+            "rate": 28.0,
+            "number": 1342
+        },
+        "Somnath Nagar": {
+            "rate": 18.0,
+            "number": 1343
+        },
+        "Rajajinagar Stage 2": {
+            "rate": 21.0,
+            "number": 1344
+        },
+        "Fort": {
+            "rate": 53.0,
+            "number": 1345
+        },
+        "Shakarpur": {
+            "rate": 19.0,
+            "number": 1346
+        },
+        "Vaiduwadi": {
+            "rate": 26.0,
+            "number": 1347
+        },
+        "Vagdevi Layout": {
+            "rate": 43.0,
+            "number": 1348
+        },
+        "Old Govindpura": {
+            "rate": 38.0,
+            "number": 1349
+        },
+        "Wilson Garden": {
+            "rate": 41.0,
+            "number": 1350
+        },
+        "Kodichikknahalli": {
+            "rate": 26.0,
+            "number": 1351
+        },
+        "Old Madras Road": {
+            "rate": 16.0,
+            "number": 1352
+        },
+        "Mohammadpur Majri": {
+            "rate": 6.0,
+            "number": 1353
+        },
+        "Nandi Hills": {
+            "rate": 6.0,
+            "number": 1354
+        },
+        "Anjanadri Layout": {
+            "rate": 29.0,
+            "number": 1355
+        },
+        "Dhayari Phata": {
+            "rate": 31.0,
+            "number": 1356
+        },
+        "Mira Bhayandar": {
+            "rate": 25.0,
+            "number": 1357
+        },
+        "MR Society": {
+            "rate": 29.0,
+            "number": 1358
+        },
+        "Silver Oak Layout": {
+            "rate": 28.0,
+            "number": 1359
+        },
+        "Geeta Nagar Mira Road East": {
+            "rate": 26.0,
+            "number": 1360
+        },
+        "Commerzone IT Park": {
+            "rate": 24.0,
+            "number": 1361
+        },
+        "LBS Road": {
+            "rate": 56.0,
+            "number": 1362
+        },
+        "Ashwini layout": {
+            "rate": 29.0,
+            "number": 1363
+        },
+        "Kamla Nagar": {
+            "rate": 24.0,
+            "number": 1364
+        },
+        "Sector 5 Rohini": {
+            "rate": 19.0,
+            "number": 1365
+        },
+        "Mayur Kunj": {
+            "rate": 32.0,
+            "number": 1366
+        },
+        "Vittasandra Main Road": {
+            "rate": 33.0,
+            "number": 1367
+        },
+        "Hadapsar Gaon": {
+            "rate": 32.0,
+            "number": 1368
+        },
+        "Kengeri Satellite Town": {
+            "rate": 15.0,
+            "number": 1369
+        },
+        "Horamavu Main Road": {
+            "rate": 30.0,
+            "number": 1370
+        },
+        "Amarjyoti Layout-Domlur": {
+            "rate": 44.0,
+            "number": 1371
+        },
+        "Kolivery Village": {
+            "rate": 84.0,
+            "number": 1372
+        },
+        "Madavara": {
+            "rate": 11.0,
+            "number": 1373
+        },
+        "Shree Siddhivinayak Meera": {
+            "rate": 25.0,
+            "number": 1374
+        },
+        "Molarband Extension": {
+            "rate": 13.0,
+            "number": 1375
+        },
+        "Parekh Nagar Kandivali West": {
+            "rate": 73.0,
+            "number": 1376
+        },
+        "Golf Course Road": {
+            "rate": 45.0,
+            "number": 1377
+        },
+        "Gandhi Vihar": {
+            "rate": 18.0,
+            "number": 1378
+        },
+        "Deonar": {
+            "rate": 100.0,
+            "number": 1379
+        },
+        "Erandwane": {
+            "rate": 29.0,
+            "number": 1380
+        },
+        "Premier Residencies": {
+            "rate": 80.0,
+            "number": 1381
+        },
+        "Bommasandra Jigani Link Road": {
+            "rate": 22.0,
+            "number": 1382
+        },
+        "Laxmi Vihar": {
+            "rate": 12.0,
+            "number": 1383
+        },
+        "One North": {
+            "rate": 40.0,
+            "number": 1384
+        },
+        "Evershine Millennium Paradise": {
+            "rate": 80.0,
+            "number": 1385
+        },
+        "Dhaka Village": {
+            "rate": 28.0,
+            "number": 1386
+        },
+        "Goregaon": {
+            "rate": 72.0,
+            "number": 1387
+        },
+        "Boat Club Road": {
+            "rate": 36.0,
+            "number": 1388
+        },
+        "Shalimar Bagh Poorvi": {
+            "rate": 18.0,
+            "number": 1389
+        },
+        "Kishangarh Village": {
+            "rate": 14.77777777777778,
+            "number": 1390
+        },
+        "Vasai": {
+            "rate": 50.0,
+            "number": 1391
+        },
+        "Parel Village": {
+            "rate": 116.0,
+            "number": 1392
+        },
+        "Bhajanpura": {
+            "rate": 13.0,
+            "number": 1393
+        },
+        "Chikkabellandur": {
+            "rate": 21.0,
+            "number": 1394
+        },
+        "Marunji Road": {
+            "rate": 38.0,
+            "number": 1395
+        },
+        "Shakarpur Khas": {
+            "rate": 31.0,
+            "number": 1396
+        },
+        "Jadhavwadi": {
+            "rate": 15.0,
+            "number": 1397
+        },
+        "Gollarahatti": {
+            "rate": 6.0,
+            "number": 1398
+        },
+        "Sheikh Sarai": {
+            "rate": 33.0,
+            "number": 1399
+        },
+        "Laxmi Nagar Balewadi": {
+            "rate": 42.0,
+            "number": 1400
+        },
+        "Yari Road": {
+            "rate": 100.0,
+            "number": 1401
+        },
+        "Guru Nanak Nagar": {
+            "rate": 37.0,
+            "number": 1402
+        },
+        "Chandan Hola": {
+            "rate": 16.0,
+            "number": 1403
+        },
+        "Banashankari 6th Stage-11th Block": {
+            "rate": 18.0,
+            "number": 1404
+        },
+        "Chawri Bazar": {
+            "rate": 188.0,
+            "number": 1405
+        },
+        "Gokul Nagar Katraj": {
+            "rate": 27.0,
+            "number": 1406
+        },
+        "Gorai": {
+            "rate": 30.0,
+            "number": 1407
+        },
+        "Madan Park": {
+            "rate": 25.0,
+            "number": 1408
+        },
+        "ITI Layout": {
+            "rate": 48.0,
+            "number": 1409
+        },
+        "Dasarahalli Main Road": {
+            "rate": 21.0,
+            "number": 1410
+        },
+        "Panjri": {
+            "rate": 20.0,
+            "number": 1411
+        },
+        "Mawal": {
+            "rate": 32.0,
+            "number": 1412
+        },
+        "North Hadapsar": {
+            "rate": 40.0,
+            "number": 1413
+        },
+        "Ramgad Nagar Mulund West": {
+            "rate": 48.0,
+            "number": 1414
+        },
+        "Kalamna": {
+            "rate": 17.0,
+            "number": 1415
+        },
+        "Shanti Park": {
+            "rate": 24.0,
+            "number": 1416
+        },
+        "Perry Road": {
+            "rate": 124.0,
+            "number": 1417
+        },
+        "Jangpura Extension": {
+            "rate": 54.0,
+            "number": 1418
+        },
+        "Kariobanahalli": {
+            "rate": 17.0,
+            "number": 1419
+        },
+        "Malleshpalya": {
+            "rate": 11.0,
+            "number": 1420
+        },
+        "Aliganj": {
+            "rate": 32.0,
+            "number": 1421
+        },
+        "Uttarahalli Main Road": {
+            "rate": 26.0,
+            "number": 1422
+        },
+        "Bellandur-Marathahalli": {
+            "rate": 31.0,
+            "number": 1423
+        },
+        "B Narayanapura": {
+            "rate": 29.0,
+            "number": 1424
+        },
+        "Sai Nagar": {
+            "rate": 33.0,
+            "number": 1425
+        },
+        "New Sangvi": {
+            "rate": 15.0,
+            "number": 1426
+        },
+        "Kumbalgodu": {
+            "rate": 23.0,
+            "number": 1427
+        },
+        "Mianwali Nagar": {
+            "rate": 33.0,
+            "number": 1428
+        },
+        "Sangharsh Nagar": {
+            "rate": 37.0,
+            "number": 1429
+        },
+        "Bhaji Market Chandan Nagar": {
+            "rate": 12.0,
+            "number": 1430
+        },
+        "Ansari Nagar West": {
+            "rate": 31.0,
+            "number": 1431
+        },
+        "EPIP Zone": {
+            "rate": 78.0,
+            "number": 1432
+        },
+        "G Block Sahakar Nagar": {
+            "rate": 64.0,
+            "number": 1433
+        },
+        "Lakshminarayana Pura": {
+            "rate": 60.0,
+            "number": 1434
+        },
+        "Amrit Nagar": {
+            "rate": 28.0,
+            "number": 1435
+        },
+        "Lok Vihar": {
+            "rate": 69.0,
+            "number": 1436
+        },
+        "Chinnapanna Halli": {
+            "rate": 32.0,
+            "number": 1437
+        },
+        "Tagore Garden Extension": {
+            "rate": 29.0,
+            "number": 1438
+        },
+        "Manjri BK": {
+            "rate": 22.0,
+            "number": 1439
+        },
+        "Hennur Bagalur Main Road": {
+            "rate": 42.0,
+            "number": 1440
+        },
+        "Kaveri Nagar": {
+            "rate": 22.0,
+            "number": 1441
+        },
+        "Yojna Vihar": {
+            "rate": 31.0,
+            "number": 1442
+        },
+        "Royal Shelters": {
+            "rate": 25.0,
+            "number": 1443
+        },
+        "Mandvi": {
+            "rate": 100.0,
+            "number": 1444
+        },
+        "Iblur Village": {
+            "rate": 43.0,
+            "number": 1445
+        },
+        "OMBR Layout": {
+            "rate": 29.0,
+            "number": 1446
+        },
+        "Gattahalli": {
+            "rate": 24.0,
+            "number": 1447
+        },
+        "Pochanpur Colony": {
+            "rate": 17.0,
+            "number": 1448
+        },
+        "Kalwad Wasti": {
+            "rate": 9.0,
+            "number": 1449
+        },
+        "Palam Extension": {
+            "rate": 23.0,
+            "number": 1450
+        },
+        "LBS Nagar": {
+            "rate": 19.0,
+            "number": 1451
+        },
+        "Clover Park": {
+            "rate": 44.0,
+            "number": 1452
+        },
+        "Immadihalli": {
+            "rate": 20.0,
+            "number": 1453
+        },
+        "Talegaon Chakan Road": {
+            "rate": 13.0,
+            "number": 1454
+        },
+        "Block T West Patel Nagar": {
+            "rate": 55.0,
+            "number": 1455
+        },
+        "Azad Nagar Andheri East": {
+            "rate": 92.0,
+            "number": 1456
+        },
+        "Phadke Haud": {
+            "rate": 33.0,
+            "number": 1457
+        },
+        "Om Nagar": {
+            "rate": 9.0,
+            "number": 1458
+        },
+        "NR Colony": {
+            "rate": 18.0,
+            "number": 1459
+        },
+        "Worli Naka": {
+            "rate": 162.0,
+            "number": 1460
+        },
+        "Kodihalli": {
+            "rate": 53.0,
+            "number": 1461
+        },
+        "Kondivita Village Andheri East": {
+            "rate": 82.0,
+            "number": 1462
+        },
+        "Bhagwati Garden Extension": {
+            "rate": 22.0,
+            "number": 1463
+        },
+        "Sanjay Park": {
+            "rate": 23.0,
+            "number": 1464
+        },
+        "Syndicate Bank Colony": {
+            "rate": 26.0,
+            "number": 1465
+        },
+        "Jasola Vihar": {
+            "rate": 25.0,
+            "number": 1466
+        },
+        "Dooravani Nagar": {
+            "rate": 10.0,
+            "number": 1467
+        },
+        "Jasola": {
+            "rate": 32.0,
+            "number": 1468
+        },
+        "Tavarekere": {
+            "rate": 30.0,
+            "number": 1469
+        },
+        "MS Palya": {
+            "rate": 16.0,
+            "number": 1470
+        },
+        "Swargate": {
+            "rate": 13.0,
+            "number": 1471
+        },
+        "Shirwal": {
+            "rate": 20.0,
+            "number": 1472
+        },
+        "Borivali": {
+            "rate": 81.0,
+            "number": 1473
+        },
+        "Masjid Bandar West": {
+            "rate": 108.0,
+            "number": 1474
+        },
+        "Balkrishna Sakharam Dhole Patil Road": {
+            "rate": 37.0,
+            "number": 1475
+        },
+        "Daya Basti": {
+            "rate": 20.0,
+            "number": 1476
+        },
+        "Virar East": {
+            "rate": 19.0,
+            "number": 1477
+        },
+        "RBI Layout": {
+            "rate": 17.0,
+            "number": 1478
+        },
+        "ISRO Layout": {
+            "rate": 21.0,
+            "number": 1479
+        },
+        "Sant Nagar": {
+            "rate": 30.0,
+            "number": 1480
+        },
+        "Binny Pete": {
+            "rate": 51.0,
+            "number": 1481
+        },
+        "Anand Nagar Chinchwad": {
+            "rate": 40.0,
+            "number": 1482
+        },
+        "Anand Park": {
+            "rate": 28.0,
+            "number": 1483
+        },
+        "Ramanjaneyanagar": {
+            "rate": 18.0,
+            "number": 1484
+        },
+        "BDA Lay Out Chandra Layout": {
+            "rate": 20.0,
+            "number": 1485
+        },
+        "Doddanagamangala": {
+            "rate": 11.0,
+            "number": 1486
+        },
+        "Huskur": {
+            "rate": 23.0,
+            "number": 1487
+        },
+        "Gangadham": {
+            "rate": 21.0,
+            "number": 1488
+        },
+        "Lado Sarai": {
+            "rate": 14.0,
+            "number": 1489
+        },
+        "Bhandup Village Road": {
+            "rate": 63.0,
+            "number": 1490
+        },
+        "Vyalikaval": {
+            "rate": 36.0,
+            "number": 1491
+        },
+        "Bangur Nagar": {
+            "rate": 65.0,
+            "number": 1492
+        },
+        "Sangvi": {
+            "rate": 21.0,
+            "number": 1493
+        },
+        "Ghorpadi Road": {
+            "rate": 46.0,
+            "number": 1494
+        },
+        "Bund Garden": {
+            "rate": 71.0,
+            "number": 1495
+        },
+        "Veera Desai Industrial Estate": {
+            "rate": 106.0,
+            "number": 1496
+        },
+        "Vaishali Nagar": {
+            "rate": 11.0,
+            "number": 1497
+        },
+        "Chokkanahalli": {
+            "rate": 14.0,
+            "number": 1498
+        },
+        "Jijamata Road": {
+            "rate": 75.0,
+            "number": 1499
+        },
+        "Moodalapalya": {
+            "rate": 16.0,
+            "number": 1500
+        },
+        "Bawana": {
+            "rate": 18.0,
+            "number": 1501
+        },
+        "Sultanpur": {
+            "rate": 23.0,
+            "number": 1502
+        },
+        "Janak Park": {
+            "rate": 20.0,
+            "number": 1503
+        },
+        "Mulund": {
+            "rate": 29.0,
+            "number": 1504
+        },
+        "Nagasandra": {
+            "rate": 35.0,
+            "number": 1505
+        },
+        "Block W 22 South Sainik Farm": {
+            "rate": 4.666666666666667,
+            "number": 1506
+        },
+        "Madhu Vihar Patparganj": {
+            "rate": 35.0,
+            "number": 1507
+        },
+        "Manorayana Palya": {
+            "rate": 16.0,
+            "number": 1508
+        },
+        "Anand Nagar": {
+            "rate": 34.0,
+            "number": 1509
+        },
+        "Sai Baba Mandir Road": {
+            "rate": 8.0,
+            "number": 1510
+        },
+        "Thindlu": {
+            "rate": 22.0,
+            "number": 1511
+        },
+        "Kammasandra": {
+            "rate": 13.0,
+            "number": 1512
+        },
+        "Suryalok Nagari": {
+            "rate": 17.0,
+            "number": 1513
+        },
+        "Vitthal Nagar": {
+            "rate": 6.0,
+            "number": 1514
+        },
+        "Pocket 5 Sector 22 Rohini": {
+            "rate": 35.0,
+            "number": 1515
+        },
+        "Gorewada": {
+            "rate": 12.0,
+            "number": 1516
+        },
+        "Block B West Patel Nagar": {
+            "rate": 34.0,
+            "number": 1517
+        },
+        "Raje Sambhaji Nagar": {
+            "rate": 80.0,
+            "number": 1518
+        },
+        "Phursungi IT Park": {
+            "rate": 15.0,
+            "number": 1519
+        },
+        "Janakpuri Block A2": {
+            "rate": 29.0,
+            "number": 1520
+        },
+        "Kalewadi": {
+            "rate": 10.0,
+            "number": 1521
+        },
+        "Saibaba Nagar Borivali West": {
+            "rate": 54.0,
+            "number": 1522
+        },
+        "Linking Road": {
+            "rate": 156.0,
+            "number": 1523
+        },
+        "Medi Agrahara": {
+            "rate": 11.0,
+            "number": 1524
+        },
+        "Godbole Vasti": {
+            "rate": 13.0,
+            "number": 1525
+        },
+        "Canara bank Layout": {
+            "rate": 23.0,
+            "number": 1526
+        },
+        "Jalahalli East": {
+            "rate": 24.0,
+            "number": 1527
+        },
+        "Sainath Nagar Wadgaon Sheri": {
+            "rate": 30.0,
+            "number": 1528
+        },
+        "HBR Layout Block 3": {
+            "rate": 24.0,
+            "number": 1529
+        },
+        "Danda": {
+            "rate": 36.0,
+            "number": 1530
+        },
+        "Gokalpur East": {
+            "rate": 15.0,
+            "number": 1531
+        },
+        "Sarole": {
+            "rate": 17.0,
+            "number": 1532
+        },
+        "Sector 8 Rohini": {
+            "rate": 50.0,
+            "number": 1533
+        },
+        "Raghuvanahalli BCMC Layout": {
+            "rate": 19.0,
+            "number": 1534
+        },
+        "Unnat Nagar Goregaon West": {
+            "rate": 71.0,
+            "number": 1535
+        },
+        "Vikaspuri Block H": {
+            "rate": 23.11111111111111,
+            "number": 1536
+        },
+        "Shivalik Road": {
+            "rate": 64.0,
+            "number": 1537
+        },
+        "East of Kailash Block F": {
+            "rate": 60.0,
+            "number": 1538
+        },
+        "Sayani Road": {
+            "rate": 179.0,
+            "number": 1539
+        },
+        "Vijay Vihar": {
+            "rate": 14.0,
+            "number": 1540
+        },
+        "IGNOU Main Road": {
+            "rate": 24.0,
+            "number": 1541
+        },
+        "Pashan Sus Road": {
+            "rate": 24.0,
+            "number": 1542
+        },
+        "Munikalappa Layout": {
+            "rate": 27.0,
+            "number": 1543
+        },
+        "Khatau Estate": {
+            "rate": 72.0,
+            "number": 1544
+        },
+        "Kothrud Bus Stand Road": {
+            "rate": 46.0,
+            "number": 1545
+        },
+        "Patil Nagar": {
+            "rate": 41.0,
+            "number": 1546
+        },
+        "Old Guddadahalli": {
+            "rate": 8.0,
+            "number": 1547
+        },
+        "Ganesh Nagar Kalaram Nagar": {
+            "rate": 43.0,
+            "number": 1548
+        },
+        "Kaspate Vasti": {
+            "rate": 28.0,
+            "number": 1549
+        },
+        "Paschim Puri": {
+            "rate": 28.0,
+            "number": 1550
+        },
+        "Mathrushree Layout Doddamuniswamy Reddy Layout": {
+            "rate": 25.0,
+            "number": 1551
+        },
+        "Mahavir Enclave Part 2": {
+            "rate": 21.33333333333333,
+            "number": 1552
+        },
+        "Geeta Colony": {
+            "rate": 37.0,
+            "number": 1553
+        },
+        "Ram Nagar Baner": {
+            "rate": 59.0,
+            "number": 1554
+        },
+        "Laxmi Road": {
+            "rate": 34.0,
+            "number": 1555
+        },
+        "Wadachi Wadi": {
+            "rate": 27.0,
+            "number": 1556
+        },
+        "Thurahalli": {
+            "rate": 14.0,
+            "number": 1557
+        },
+        "Tukaram Nagar": {
+            "rate": 44.0,
+            "number": 1558
+        },
+        "Outram Lines": {
+            "rate": 65.0,
+            "number": 1559
+        },
+        "Shahbad Daulatpur Village": {
+            "rate": 100.0,
+            "number": 1560
+        },
+        "Sudhama Nagar": {
+            "rate": 38.0,
+            "number": 1561
+        },
+        "Chaudhari Wasti": {
+            "rate": 63.0,
+            "number": 1562
+        },
+        "Azad Market": {
+            "rate": 51.0,
+            "number": 1563
+        },
+        "Hennur Bande Road": {
+            "rate": 19.0,
+            "number": 1564
+        },
+        "Sannatammanahalli": {
+            "rate": 21.0,
+            "number": 1565
+        },
+        "Wagholi Keshnand Road": {
+            "rate": 12.0,
+            "number": 1566
+        },
+        "Varthur Kodi": {
+            "rate": 20.0,
+            "number": 1567
+        },
+        "Dera Mandi": {
+            "rate": 17.0,
+            "number": 1568
+        },
+        "Richards Town": {
+            "rate": 58.0,
+            "number": 1569
+        },
+        "Virender Nagar": {
+            "rate": 24.0,
+            "number": 1570
+        },
+        "RPC Layout": {
+            "rate": 23.0,
+            "number": 1571
+        },
+        "Haralur": {
+            "rate": 70.0,
+            "number": 1572
+        },
+        "Hari Enclave": {
+            "rate": 24.0,
+            "number": 1573
+        },
+        "Bagalur Sarjapur Road": {
+            "rate": 9.0,
+            "number": 1574
+        },
+        "Ashok Vihar Phase 2": {
+            "rate": 27.0,
+            "number": 1575
+        },
+        "Sasane Nagar": {
+            "rate": 29.0,
+            "number": 1576
+        },
+        "Sade Satra Nali": {
+            "rate": 45.0,
+            "number": 1577
+        },
+        "Krishna Nagar Karol Bagh": {
+            "rate": 29.0,
+            "number": 1578
+        },
+        "Lajpat Nagar 3": {
+            "rate": 62.0,
+            "number": 1579
+        },
+        "Coffee Board layout": {
+            "rate": 13.0,
+            "number": 1580
+        },
+        "Nehru Vihar": {
+            "rate": 85.0,
+            "number": 1581
+        },
+        "Atmananda Colony": {
+            "rate": 21.0,
+            "number": 1582
+        },
+        "Gahunje": {
+            "rate": 75.0,
+            "number": 1583
+        },
+        "Siddheshwar Nagar": {
+            "rate": 46.0,
+            "number": 1584
+        },
+        "Nayandahalli": {
+            "rate": 8.0,
+            "number": 1585
+        },
+        "Phase 2 Magarpatta": {
+            "rate": 100.0,
+            "number": 1586
+        },
+        "Gilbert Hill": {
+            "rate": 11.0,
+            "number": 1587
+        },
+        "Maithri Layout": {
+            "rate": 27.0,
+            "number": 1588
+        },
+        "Dwarka Sector 19B": {
+            "rate": 36.0,
+            "number": 1589
+        },
+        "Matadahalli": {
+            "rate": 22.0,
+            "number": 1590
+        },
+        "Vayisena Nagar": {
+            "rate": 15.0,
+            "number": 1591
+        },
+        "Nangli Vihar": {
+            "rate": 11.0,
+            "number": 1592
+        },
+        "Shankarpur": {
+            "rate": 10.0,
+            "number": 1593
+        },
+        "Devidas Road": {
+            "rate": 87.0,
+            "number": 1594
+        },
+        "Thyagaraja Nagar": {
+            "rate": 35.0,
+            "number": 1595
+        },
+        "Nalasopara West": {
+            "rate": 9.0,
+            "number": 1596
+        },
+        "Richmond Road": {
+            "rate": 79.0,
+            "number": 1597
+        },
+        "Uttam Nagar Nawada": {
+            "rate": 17.0,
+            "number": 1598
+        },
+        "Sector 2 Dwarka": {
+            "rate": 27.0,
+            "number": 1599
+        },
+        "Aga Nagar": {
+            "rate": 13.0,
+            "number": 1600
+        },
+        "Chikhalwadi": {
+            "rate": 21.0,
+            "number": 1601
+        },
+        "Paschim Vihar Block B2": {
+            "rate": 28.0,
+            "number": 1602
+        },
+        "Silver County Road": {
+            "rate": 17.0,
+            "number": 1603
+        },
+        "Hanumanthappa Layout Sivanchetti Gardens": {
+            "rate": 77.0,
+            "number": 1604
+        },
+        "Anand Parbat": {
+            "rate": 42.0,
+            "number": 1605
+        },
+        "Shanti Vihar": {
+            "rate": 50.0,
+            "number": 1606
+        },
+        "Old Gupta Colony": {
+            "rate": 59.0,
+            "number": 1607
+        },
+        "Surya Enclave": {
+            "rate": 32.0,
+            "number": 1608
+        },
+        "Kada Agrahara": {
+            "rate": 21.0,
+            "number": 1609
+        },
+        "Kucha Pati Ram": {
+            "rate": 13.0,
+            "number": 1610
+        },
+        "Ravet Road": {
+            "rate": 23.0,
+            "number": 1611
+        },
+        "Ujwal Nagar": {
+            "rate": 15.0,
+            "number": 1612
+        },
+        "Naigaon West": {
+            "rate": 11.0,
+            "number": 1613
+        },
+        "AECS Layout Block D": {
+            "rate": 40.0,
+            "number": 1614
+        },
+        "Friends Colony West": {
+            "rate": 23.0,
+            "number": 1615
+        },
+        "Kothnoor Dinne": {
+            "rate": 29.0,
+            "number": 1616
+        },
+        "Jalahalli": {
+            "rate": 24.0,
+            "number": 1617
+        },
+        "Prahlad Pur Banger": {
+            "rate": 7.555555555555555,
+            "number": 1618
+        },
+        "DLF Farms": {
+            "rate": 143.0,
+            "number": 1619
+        },
+        "Khajuri Khas": {
+            "rate": 57.0,
+            "number": 1620
+        },
+        "Raut Wadi Lavale": {
+            "rate": 11.0,
+            "number": 1621
+        },
+        "Adarsh Nagar Bindapur Extension": {
+            "rate": 21.0,
+            "number": 1622
+        },
+        "Swaraj Nagar": {
+            "rate": 12.0,
+            "number": 1623
+        },
+        "Jai Prakash Nagar": {
+            "rate": 15.0,
+            "number": 1624
+        },
+        "Shyam Enclave": {
+            "rate": 18.88888888888889,
+            "number": 1625
+        },
+        "Durga Vihar": {
+            "rate": 10.0,
+            "number": 1626
+        },
+        "Kondli": {
+            "rate": 24.0,
+            "number": 1627
+        },
+        "Goyla Dairy": {
+            "rate": 120.0,
+            "number": 1628
+        },
+        "Wazirabad": {
+            "rate": 11.0,
+            "number": 1629
+        },
+        "Ulhasnagar": {
+            "rate": 9.0,
+            "number": 1630
+        },
+        "Yelachenahalli": {
+            "rate": 15.0,
+            "number": 1631
+        },
+        "Vasant Kunj Enclave": {
+            "rate": 39.0,
+            "number": 1632
+        },
+        "Guruwar Peth": {
+            "rate": 27.0,
+            "number": 1633
+        },
+        "Vijayapura Town": {
+            "rate": 13.0,
+            "number": 1634
+        },
+        "Bhavani Nagar": {
+            "rate": 45.0,
+            "number": 1635
+        },
+        "Baner Gaon": {
+            "rate": 32.0,
+            "number": 1636
+        },
+        "Itwari": {
+            "rate": 73.0,
+            "number": 1637
+        },
+        "Vijay Colony Vijay Nagar": {
+            "rate": 17.0,
+            "number": 1638
+        },
+        "Sakore Nagar": {
+            "rate": 37.0,
+            "number": 1639
+        },
+        "Khadki": {
+            "rate": 21.0,
+            "number": 1640
+        },
+        "Shitladevi Chawl": {
+            "rate": 114.0,
+            "number": 1641
+        },
+        "Kavde Nagar": {
+            "rate": 20.0,
+            "number": 1642
+        },
+        "Pillaganahalli": {
+            "rate": 13.0,
+            "number": 1643
+        },
+        "Manjunatha Layout Munnekollal": {
+            "rate": 22.0,
+            "number": 1644
+        },
+        "SG Palya": {
+            "rate": 28.0,
+            "number": 1645
+        },
+        "Konena Agrahara Murgesh Pallya": {
+            "rate": 45.0,
+            "number": 1646
+        },
+        "Arjun Park": {
+            "rate": 14.0,
+            "number": 1647
+        },
+        "Deonar Village Road": {
+            "rate": 55.0,
+            "number": 1648
+        },
+        "Block 2nd Koramangala": {
+            "rate": 33.0,
+            "number": 1649
+        },
+        "Rajarajeshwari Nagar Stage 5": {
+            "rate": 65.0,
+            "number": 1650
+        },
+        "Sector 23B Dwarka": {
+            "rate": 34.0,
+            "number": 1651
+        },
+        "Laxmi Nagar Dhanori": {
+            "rate": 34.0,
+            "number": 1652
+        },
+        "Sector 19 Rohini": {
+            "rate": 28.0,
+            "number": 1653
+        },
+        "Kenchenhalli": {
+            "rate": 20.0,
+            "number": 1654
+        },
+        "Ittamadu Main Road": {
+            "rate": 16.0,
+            "number": 1655
+        },
+        "New Modern Shahdara": {
+            "rate": 17.0,
+            "number": 1656
+        },
+        "Block BJ Shalimar Bagh": {
+            "rate": 49.0,
+            "number": 1657
+        },
+        "Parshiwada": {
+            "rate": 79.0,
+            "number": 1658
+        },
+        "Gautam Nagar": {
+            "rate": 27.0,
+            "number": 1659
+        },
+        "Borewell Road": {
+            "rate": 48.0,
+            "number": 1660
+        },
+        "Jaunapur": {
+            "rate": 19.0,
+            "number": 1661
+        },
+        "Vivek Vihar Phase 1": {
+            "rate": 35.0,
+            "number": 1662
+        },
+        "Kapil Nagar": {
+            "rate": 9.0,
+            "number": 1663
+        },
+        "Nyanapanahalli": {
+            "rate": 17.0,
+            "number": 1664
+        },
+        "Elus Road": {
+            "rate": 39.0,
+            "number": 1665
+        },
+        "Andheri": {
+            "rate": 60.0,
+            "number": 1666
+        },
+        "Rani Bagh Pitam Pura": {
+            "rate": 13.0,
+            "number": 1667
+        },
+        "Nandanwan Layout": {
+            "rate": 14.0,
+            "number": 1668
+        },
+        "Kharadi Gaon": {
+            "rate": 49.0,
+            "number": 1669
+        },
+        "Hadapsar Industrial Estate": {
+            "rate": 6.0,
+            "number": 1670
+        },
+        "Nilothi Village": {
+            "rate": 16.0,
+            "number": 1671
+        },
+        "Kannamwar Nagar 1": {
+            "rate": 53.0,
+            "number": 1672
+        },
+        "Market Yard": {
+            "rate": 29.0,
+            "number": 1673
+        },
+        "Navghar Mulund East": {
+            "rate": 73.0,
+            "number": 1674
+        },
+        "jakkur Plantation": {
+            "rate": 23.0,
+            "number": 1675
+        },
+        "Masoodpur": {
+            "rate": 76.0,
+            "number": 1676
+        },
+        "Kharadi South Main Road": {
+            "rate": 46.0,
+            "number": 1677
+        },
+        "Sector 1 Charkop": {
+            "rate": 27.0,
+            "number": 1678
+        },
+        "Best Colony Chembur East": {
+            "rate": 94.0,
+            "number": 1679
+        },
+        "Rayasandra": {
+            "rate": 34.0,
+            "number": 1680
+        },
+        "Parappana Agrahara": {
+            "rate": 23.0,
+            "number": 1681
+        },
+        "Sambhaji Nagar Mulund West": {
+            "rate": 84.0,
+            "number": 1682
+        },
+        "Mayur Vihar Phase 1 Extension": {
+            "rate": 39.0,
+            "number": 1683
+        },
+        "Baner Aundh Road": {
+            "rate": 35.0,
+            "number": 1684
+        },
+        "Kirol Village": {
+            "rate": 55.0,
+            "number": 1685
+        },
+        "Shalimar Bagh AH Block": {
+            "rate": 44.0,
+            "number": 1686
+        },
+        "Wadgaon Budruk": {
+            "rate": 11.0,
+            "number": 1687
+        },
+        "Junnasandra": {
+            "rate": 35.0,
+            "number": 1688
+        },
+        "Byrappa Layout RMV 2nd Stage": {
+            "rate": 17.0,
+            "number": 1689
+        },
+        "Kalappa Layout": {
+            "rate": 18.0,
+            "number": 1690
+        },
+        "Mansa Ram Park": {
+            "rate": 14.0,
+            "number": 1691
+        },
+        "Ghazipur": {
+            "rate": 17.0,
+            "number": 1692
+        },
+        "Best Colony Parel": {
+            "rate": 135.0,
+            "number": 1693
+        },
+        "Sasane Colony": {
+            "rate": 30.0,
+            "number": 1694
+        },
+        "Kutwal Colony": {
+            "rate": 35.0,
+            "number": 1695
+        },
+        "Fish Market Area": {
+            "rate": 45.0,
+            "number": 1696
+        },
+        "Seegehalli Kannamangala Road": {
+            "rate": 17.0,
+            "number": 1697
+        },
+        "Jangpura A": {
+            "rate": 43.0,
+            "number": 1698
+        },
+        "Mahim United Industrial Estate": {
+            "rate": 128.0,
+            "number": 1699
+        },
+        "Vinoba Puri": {
+            "rate": 9.0,
+            "number": 1700
+        },
+        "Kanhe": {
+            "rate": 8.0,
+            "number": 1701
+        },
+        "Azad Nagar Andheri West": {
+            "rate": 94.0,
+            "number": 1702
+        },
+        "Budigere Road": {
+            "rate": 15.0,
+            "number": 1703
+        },
+        "Stage 1st Kumaraswamy Layout": {
+            "rate": 17.0,
+            "number": 1704
+        },
+        "Seminary Hill": {
+            "rate": 18.0,
+            "number": 1705
+        },
+        "Janki Kutir": {
+            "rate": 150.0,
+            "number": 1706
+        },
+        "Kodipalya": {
+            "rate": 50.0,
+            "number": 1707
+        },
+        "Laxmi Sagar Layout": {
+            "rate": 42.0,
+            "number": 1708
+        },
+        "Patel Garden": {
+            "rate": 26.0,
+            "number": 1709
+        },
+        "Chakan Nanekarwadi Pune Highway": {
+            "rate": 9.0,
+            "number": 1710
+        },
+        "Adarsh Nagar Jogeshwari West": {
+            "rate": 81.0,
+            "number": 1711
+        },
+        "Vimanapura": {
+            "rate": 17.0,
+            "number": 1712
+        },
+        "Chinch Bhaul": {
+            "rate": 18.0,
+            "number": 1713
+        },
+        "Datta Mandir Road": {
+            "rate": 26.0,
+            "number": 1714
+        },
+        "AnjanaPura": {
+            "rate": 24.0,
+            "number": 1715
+        },
+        "Phase 5 Aya Nagar": {
+            "rate": 16.0,
+            "number": 1716
+        },
+        "Vile Parle": {
+            "rate": 183.0,
+            "number": 1717
+        },
+        "Devasthanagalu": {
+            "rate": 33.0,
+            "number": 1718
+        },
+        "Jivanahalli": {
+            "rate": 20.0,
+            "number": 1719
+        },
+        "Rajiv Gandhi Nagar Bhandup West": {
+            "rate": 51.0,
+            "number": 1720
+        },
+        "Barve Nagar": {
+            "rate": 37.0,
+            "number": 1721
+        },
+        "Block A Mohan Garden": {
+            "rate": 16.0,
+            "number": 1722
+        },
+        "Sarai Rohilla": {
+            "rate": 21.0,
+            "number": 1723
+        },
+        "Manyata Tech Park Road": {
+            "rate": 21.0,
+            "number": 1724
+        },
+        "Bhujbal Vasti": {
+            "rate": 29.0,
+            "number": 1725
+        },
+        "Waddhamna": {
+            "rate": 10.0,
+            "number": 1726
+        },
+        "AK Colony Domlur": {
+            "rate": 64.0,
+            "number": 1727
+        },
+        "Mathikere Extension": {
+            "rate": 16.0,
+            "number": 1728
+        },
+        "Peace layout": {
+            "rate": 20.0,
+            "number": 1729
+        },
+        "Shiv Park Kakrola": {
+            "rate": 32.0,
+            "number": 1730
+        },
+        "Chhattarpur Enclave Phase 1": {
+            "rate": 12.0,
+            "number": 1731
+        },
+        "Sadhna Enclave": {
+            "rate": 69.0,
+            "number": 1732
+        },
+        "Sultanpalya": {
+            "rate": 23.0,
+            "number": 1733
+        },
+        "Sector 20 Rohini": {
+            "rate": 12.0,
+            "number": 1734
+        },
+        "Gubbalala": {
+            "rate": 29.0,
+            "number": 1735
+        },
+        "Hinjewadi Village": {
+            "rate": 17.0,
+            "number": 1736
+        },
+        "Block ND Dakshini Pitampura": {
+            "rate": 37.0,
+            "number": 1737
+        },
+        "Gorai 2": {
+            "rate": 52.0,
+            "number": 1738
+        },
+        "Dollar Scheme": {
+            "rate": 25.0,
+            "number": 1739
+        },
+        "Choudhary Park": {
+            "rate": 41.0,
+            "number": 1740
+        },
+        "Kalidasa Layout": {
+            "rate": 19.0,
+            "number": 1741
+        },
+        "Agarkar Nagar": {
+            "rate": 8.0,
+            "number": 1742
+        },
+        "Vikaspuri Block D": {
+            "rate": 31.0,
+            "number": 1743
+        },
+        "Yewalewadi": {
+            "rate": 18.0,
+            "number": 1744
+        },
+        "Chedda Nagar": {
+            "rate": 42.0,
+            "number": 1745
+        },
+        "Varanasi": {
+            "rate": 22.0,
+            "number": 1746
+        },
+        "Naidu Layout Electronic City": {
+            "rate": 46.0,
+            "number": 1747
+        },
+        "Sunder Nagar Malad West": {
+            "rate": 74.0,
+            "number": 1748
+        },
+        "Lalbaug Sion": {
+            "rate": 130.0,
+            "number": 1749
+        },
+        "Jayanagar Housing Society Layout": {
+            "rate": 29.0,
+            "number": 1750
+        },
+        "Nipania": {
+            "rate": 14.0,
+            "number": 1751
+        },
+        "Nehru Nagar Airport Area": {
+            "rate": 84.0,
+            "number": 1752
+        },
+        "Jagriti Enclave": {
+            "rate": 27.0,
+            "number": 1753
+        },
+        "Sant Nagar Lohegaon": {
+            "rate": 23.0,
+            "number": 1754
+        },
+        "Hill & Dales": {
+            "rate": 44.0,
+            "number": 1755
+        },
+        "Sindhi Colony": {
+            "rate": 97.0,
+            "number": 1756
+        },
+        "Bidarahalli": {
+            "rate": 35.0,
+            "number": 1757
+        },
+        "Joggers Park": {
+            "rate": 32.0,
+            "number": 1758
+        },
+        "Kanji House": {
+            "rate": 13.0,
+            "number": 1759
+        },
+        "Bhoiwada - Parel": {
+            "rate": 134.0,
+            "number": 1760
+        },
+        "Balaji Layout Cooke Town": {
+            "rate": 60.0,
+            "number": 1761
+        },
+        "Doddanekundi Main Road": {
+            "rate": 43.0,
+            "number": 1762
+        },
+        "Old Ferry Road": {
+            "rate": 28.0,
+            "number": 1763
+        },
+        "Dasarahalli": {
+            "rate": 38.0,
+            "number": 1764
+        },
+        "MS Ramaiah City Layout": {
+            "rate": 21.0,
+            "number": 1765
+        },
+        "Attur Layout": {
+            "rate": 21.0,
+            "number": 1766
+        },
+        "Mall Road": {
+            "rate": 104.0,
+            "number": 1767
+        },
+        "Sector 21 Rohini": {
+            "rate": 24.0,
+            "number": 1768
+        },
+        "Kharodi": {
+            "rate": 29.0,
+            "number": 1769
+        },
+        "Sector 4 HSR Layout": {
+            "rate": 39.0,
+            "number": 1770
+        },
+        "Aundh Gaon": {
+            "rate": 34.0,
+            "number": 1771
+        },
+        "Sri Sai Layout": {
+            "rate": 21.0,
+            "number": 1772
+        },
+        "Someshwara Layout": {
+            "rate": 35.0,
+            "number": 1773
+        },
+        "Bikasipura": {
+            "rate": 31.0,
+            "number": 1774
+        },
+        "GM Palya": {
+            "rate": 25.0,
+            "number": 1775
+        },
+        "Churchgate": {
+            "rate": 210.0,
+            "number": 1776
+        },
+        "Kendriya Vihar Road": {
+            "rate": 22.0,
+            "number": 1777
+        },
+        "Nirman Vihar": {
+            "rate": 22.0,
+            "number": 1778
+        },
+        "Dayanand Colony": {
+            "rate": 39.0,
+            "number": 1779
+        },
+        "Krishna Nagar More Vasti": {
+            "rate": 15.0,
+            "number": 1780
+        },
+        "Vigneshwara Layout Hoysala Nagar": {
+            "rate": 28.0,
+            "number": 1781
+        },
+        "Giri Nagar": {
+            "rate": 29.0,
+            "number": 1782
+        },
+        "Bhavani Nagar Shakti Farm": {
+            "rate": 14.0,
+            "number": 1783
+        },
+        "Block 3 Ramesh Nagar": {
+            "rate": 333.0,
+            "number": 1784
+        },
+        "Banarsi Das Estate": {
+            "rate": 39.0,
+            "number": 1785
+        },
+        "Ingole Nagar": {
+            "rate": 20.0,
+            "number": 1786
+        },
+        "Mithapur Extension": {
+            "rate": 10.0,
+            "number": 1787
+        },
+        "Daryaganj": {
+            "rate": 27.0,
+            "number": 1788
+        },
+        "HMT Layout Vidyaranyapura": {
+            "rate": 30.0,
+            "number": 1789
+        },
+        "Shree Nagar": {
+            "rate": 13.0,
+            "number": 1790
+        },
+        "CQAL Layout": {
+            "rate": 32.0,
+            "number": 1791
+        },
+        "Indra Enclave": {
+            "rate": 32.0,
+            "number": 1792
+        },
+        "Munirka Enclave": {
+            "rate": 44.0,
+            "number": 1793
+        },
+        "Bhayandar West": {
+            "rate": 26.0,
+            "number": 1794
+        },
+        "Yogi Nagar": {
+            "rate": 62.0,
+            "number": 1795
+        },
+        "Shinde Nagar Mulanagar": {
+            "rate": 28.0,
+            "number": 1796
+        },
+        "MLS Colony": {
+            "rate": 20.0,
+            "number": 1797
+        },
+        "Baprola": {
+            "rate": 11.0,
+            "number": 1798
+        },
+        "Raghu Nagar": {
+            "rate": 24.0,
+            "number": 1799
+        },
+        "ManganaHalli": {
+            "rate": 23.0,
+            "number": 1800
+        },
+        "Neelasandra": {
+            "rate": 13.0,
+            "number": 1801
+        },
+        "Channasandra Main Road": {
+            "rate": 23.0,
+            "number": 1802
+        },
+        "Maruthi Nagar Dasarahalli": {
+            "rate": 35.0,
+            "number": 1803
+        },
+        "Kundalahalli Colony": {
+            "rate": 26.0,
+            "number": 1804
+        },
+        "Srirampuram": {
+            "rate": 32.0,
+            "number": 1805
+        },
+        "Battipada": {
+            "rate": 52.0,
+            "number": 1806
+        },
+        "Sahakar Nagar": {
+            "rate": 13.0,
+            "number": 1807
+        },
+        "Jonapur": {
+            "rate": 12.0,
+            "number": 1808
+        },
+        "Kokanipada": {
+            "rate": 72.0,
+            "number": 1809
+        },
+        "Amar Colony": {
+            "rate": 39.0,
+            "number": 1810
+        },
+        "Riddhi Gardens": {
+            "rate": 105.0,
+            "number": 1811
+        },
+        "Patrakar Nagar": {
+            "rate": 36.0,
+            "number": 1812
+        },
+        "Virgonagar Industrial Estate": {
+            "rate": 42.0,
+            "number": 1813
+        },
+        "Shivaji Nagar - Aarey Milk Colony": {
+            "rate": 40.0,
+            "number": 1814
+        },
+        "Kailashpuri": {
+            "rate": 20.0,
+            "number": 1815
+        },
+        "Lavelle Road": {
+            "rate": 135.0,
+            "number": 1816
+        },
+        "Gandhi Nagar Bandra East": {
+            "rate": 136.0,
+            "number": 1817
+        },
+        "Rajas Society": {
+            "rate": 21.0,
+            "number": 1818
+        },
+        "Muranjan Wadi": {
+            "rate": 45.0,
+            "number": 1819
+        },
+        "Victoria Layout": {
+            "rate": 43.0,
+            "number": 1820
+        },
+        "Charni Road": {
+            "rate": 100.0,
+            "number": 1821
+        },
+        "Sector 15 Rohini": {
+            "rate": 16.0,
+            "number": 1822
+        },
+        "Jayamahal Main Road": {
+            "rate": 47.0,
+            "number": 1823
+        },
+        "Indora": {
+            "rate": 9.0,
+            "number": 1824
+        },
+        "Shankar Nagar": {
+            "rate": 23.0,
+            "number": 1825
+        },
+        "LIC Colony Borivali West": {
+            "rate": 60.0,
+            "number": 1826
+        },
+        "Block WZ Uttam Nagar": {
+            "rate": 31.0,
+            "number": 1827
+        },
+        "Madh": {
+            "rate": 71.0,
+            "number": 1828
+        },
+        "Kudje Khadakwasla Link Road": {
+            "rate": 20.0,
+            "number": 1829
+        },
+        "Mohan Nagar Co operative Society": {
+            "rate": 36.0,
+            "number": 1830
+        },
+        "Uday Park": {
+            "rate": 138.0,
+            "number": 1831
+        },
+        "Mahadev Wadi": {
+            "rate": 35.0,
+            "number": 1832
+        },
+        "Mathikere": {
+            "rate": 29.0,
+            "number": 1833
+        },
+        "Sector 11 New Thippasandra": {
+            "rate": 30.0,
+            "number": 1834
+        },
+        "Tathawade Road": {
+            "rate": 28.0,
+            "number": 1835
+        },
+        "Navagaon": {
+            "rate": 50.0,
+            "number": 1836
+        },
+        "Chikkajala": {
+            "rate": 25.0,
+            "number": 1837
+        },
+        "Bhagat Vihar": {
+            "rate": 7.0,
+            "number": 1838
+        },
+        "Maruti Nagar": {
+            "rate": 9.0,
+            "number": 1839
+        },
+        "Godrej Colony": {
+            "rate": 158.0,
+            "number": 1840
+        },
+        "Meeta Nagar": {
+            "rate": 17.0,
+            "number": 1841
+        },
+        "Sheikh Sarai Phase 2": {
+            "rate": 44.0,
+            "number": 1842
+        },
+        "Padmavati Nagar Bhayandar West": {
+            "rate": 36.0,
+            "number": 1843
+        },
+        "Laggere": {
+            "rate": 18.0,
+            "number": 1844
+        },
+        "Adarsh Palm Retreat": {
+            "rate": 67.0,
+            "number": 1845
+        },
+        "Kanchpada": {
+            "rate": 94.0,
+            "number": 1846
+        },
+        "Worli Sea Face": {
+            "rate": 194.0,
+            "number": 1847
+        },
+        "AMS Layout": {
+            "rate": 18.0,
+            "number": 1848
+        },
+        "Anantapura": {
+            "rate": 23.0,
+            "number": 1849
+        },
+        "Sheikh Sarai Phase 1": {
+            "rate": 71.0,
+            "number": 1850
+        },
+        "Pulkeshi Nagar": {
+            "rate": 50.0,
+            "number": 1851
+        },
+        "Lavakusha Nagar": {
+            "rate": 33.0,
+            "number": 1852
+        },
+        "Chanakya Place": {
+            "rate": 11.0,
+            "number": 1853
+        },
+        "Gruha Lakshmi Layout": {
+            "rate": 18.0,
+            "number": 1854
+        },
+        "Dahanukar A": {
+            "rate": 29.0,
+            "number": 1855
+        },
+        "Nityanand Nagar Ghatkopar West": {
+            "rate": 124.0,
+            "number": 1856
+        },
+        "Brhmanwada": {
+            "rate": 125.0,
+            "number": 1857
+        },
+        "Shubham Enclave": {
+            "rate": 21.0,
+            "number": 1858
+        },
+        "Chikku Lakshmaiah Layout": {
+            "rate": 29.0,
+            "number": 1859
+        },
+        "Gopasandra Sarjapura Road": {
+            "rate": 80.0,
+            "number": 1860
+        },
+        "Ram Nagar Tathawade": {
+            "rate": 38.0,
+            "number": 1861
+        },
+        "Korba Mithagar": {
+            "rate": 2000.0,
+            "number": 1862
+        },
+        "Freedom Fighter Colony": {
+            "rate": 26.0,
+            "number": 1863
+        },
+        "F Block Sahakar Nagar": {
+            "rate": 27.0,
+            "number": 1864
+        },
+        "Tivri": {
+            "rate": 30.0,
+            "number": 1865
+        },
+        "Bellandur Lake Road": {
+            "rate": 29.0,
+            "number": 1866
+        },
+        "Vardhman Nagar": {
+            "rate": 75.0,
+            "number": 1867
+        },
+        "Hemkunt Colony": {
+            "rate": 100.0,
+            "number": 1868
+        },
+        "Sugaon": {
+            "rate": 18.0,
+            "number": 1869
+        },
+        "Bajrang Nagar": {
+            "rate": 15.0,
+            "number": 1870
+        },
+        "Bk Dutt Colony": {
+            "rate": 25.0,
+            "number": 1871
+        },
+        "Golf Links": {
+            "rate": 333.0,
+            "number": 1872
+        },
+        "Sambhaji Nagar": {
+            "rate": 16.0,
+            "number": 1873
+        },
+        "Sanjay Colony Narela": {
+            "rate": 9.0,
+            "number": 1874
+        },
+        "Vishnu Garden": {
+            "rate": 25.0,
+            "number": 1875
+        },
+        "Wakad Road": {
+            "rate": 29.0,
+            "number": 1876
+        },
+        "Gokul Nagar Dhanori": {
+            "rate": 17.0,
+            "number": 1877
+        },
+        "Harsh Vihar Pitampura": {
+            "rate": 30.0,
+            "number": 1878
+        },
+        "Chikkabidarakallu": {
+            "rate": 11.0,
+            "number": 1879
+        },
+        "Hosakerehalli": {
+            "rate": 45.0,
+            "number": 1880
+        },
+        "Tilak Nagar Sewri": {
+            "rate": 67.0,
+            "number": 1881
+        },
+        "Hauz Rani": {
+            "rate": 30.0,
+            "number": 1882
+        },
+        "Somasundarapalya": {
+            "rate": 29.0,
+            "number": 1883
+        },
+        "Vishwas Park": {
+            "rate": 20.0,
+            "number": 1884
+        },
+        "Cunningham Road": {
+            "rate": 73.0,
+            "number": 1885
+        },
+        "Best Nagar - Goregaon West": {
+            "rate": 100.0,
+            "number": 1886
+        },
+        "Tulasi Layout": {
+            "rate": 23.0,
+            "number": 1887
+        },
+        "MBH Colony": {
+            "rate": 64.0,
+            "number": 1888
+        },
+        "Raheja Township": {
+            "rate": 72.0,
+            "number": 1889
+        },
+        "Roshanpura": {
+            "rate": 10.0,
+            "number": 1890
+        },
+        "Meenakshipuram": {
+            "rate": 13.0,
+            "number": 1891
+        },
+        "Deepanjali Nagar": {
+            "rate": 16.0,
+            "number": 1892
+        },
+        "Masjid Moth": {
+            "rate": 61.0,
+            "number": 1893
+        },
+        "Agripada": {
+            "rate": 107.0,
+            "number": 1894
+        },
+        "Charkop": {
+            "rate": 78.0,
+            "number": 1895
+        },
+        "Bhilgaon": {
+            "rate": 8.0,
+            "number": 1896
+        },
+        "Model Town Andheri West": {
+            "rate": 92.0,
+            "number": 1897
+        },
+        "Anjana Nagar": {
+            "rate": 10.0,
+            "number": 1898
+        },
+        "Mahindra Park": {
+            "rate": 12.0,
+            "number": 1899
+        },
+        "Kandivali": {
+            "rate": 73.0,
+            "number": 1900
+        },
+        "Santhosh Nagar": {
+            "rate": 38.0,
+            "number": 1901
+        },
+        "Hutchins Road": {
+            "rate": 35.0,
+            "number": 1902
+        },
+        "Block B Surajmal Vihar": {
+            "rate": 42.0,
+            "number": 1903
+        },
+        "Kalewadi Road": {
+            "rate": 38.0,
+            "number": 1904
+        },
+        "Balaji Nagar": {
+            "rate": 16.0,
+            "number": 1905
+        },
+        "A Narayanapura": {
+            "rate": 71.0,
+            "number": 1906
+        },
+        "Blue Ridge Town Pune": {
+            "rate": 56.0,
+            "number": 1907
+        },
+        "Vikhroli Village": {
+            "rate": 58.0,
+            "number": 1908
+        },
+        "Budh Vihar": {
+            "rate": 9.0,
+            "number": 1909
+        },
+        "Aya Nagar Phase 1": {
+            "rate": 18.0,
+            "number": 1910
+        },
+        "Bhola Nath Nagar": {
+            "rate": 25.0,
+            "number": 1911
+        },
+        "Balaji Layout": {
+            "rate": 24.0,
+            "number": 1912
+        },
+        "Basapura Main Road": {
+            "rate": 22.0,
+            "number": 1913
+        },
+        "Kiran Vihar": {
+            "rate": 35.0,
+            "number": 1914
+        },
+        "Yashwant Nagar Kharadi": {
+            "rate": 23.0,
+            "number": 1915
+        },
+        "Ashok Niketan": {
+            "rate": 38.55555555555556,
+            "number": 1916
+        },
+        "Rajaji Nagar Industrial Town": {
+            "rate": 101.0,
+            "number": 1917
+        },
+        "Vittal Mallya Road": {
+            "rate": 94.0,
+            "number": 1918
+        },
+        "Kanakiya": {
+            "rate": 107.0,
+            "number": 1919
+        },
+        "Ramchandrapura": {
+            "rate": 11.0,
+            "number": 1920
+        },
+        "Mohit Nagar": {
+            "rate": 38.0,
+            "number": 1921
+        },
+        "Chikhali Road": {
+            "rate": 29.0,
+            "number": 1922
+        },
+        "Subbaiahnapalya": {
+            "rate": 18.0,
+            "number": 1923
+        },
+        "Anand Vihar Nangli Sakrawati": {
+            "rate": 10.0,
+            "number": 1924
+        },
+        "Garhi": {
+            "rate": 19.0,
+            "number": 1925
+        },
+        "Anand Nagar- Hebbal": {
+            "rate": 45.0,
+            "number": 1926
+        },
+        "Mylappanahalli": {
+            "rate": 133.0,
+            "number": 1927
+        },
+        "Vivek Vihar": {
+            "rate": 13.0,
+            "number": 1928
+        },
+        "Paschim Vihar Block A3": {
+            "rate": 30.0,
+            "number": 1929
+        },
+        "Shreshtha Vihar": {
+            "rate": 23.0,
+            "number": 1930
+        },
+        "Abhyankar Nagar": {
+            "rate": 28.0,
+            "number": 1931
+        },
+        "Eksar Road": {
+            "rate": 57.0,
+            "number": 1932
+        },
+        "Thubarahalli": {
+            "rate": 35.0,
+            "number": 1933
+        },
+        "Shantivan": {
+            "rate": 33.0,
+            "number": 1934
+        },
+        "Pathare Wasti Road": {
+            "rate": 13.0,
+            "number": 1935
+        },
+        "Ambalipura": {
+            "rate": 34.0,
+            "number": 1936
+        },
+        "Jasminium Society": {
+            "rate": 36.0,
+            "number": 1937
+        },
+        "Ranala": {
+            "rate": 5.0,
+            "number": 1938
+        },
+        "Ambewadi Malad East": {
+            "rate": 68.0,
+            "number": 1939
+        },
+        "Khichripur": {
+            "rate": 22.0,
+            "number": 1940
+        },
+        "Old Nangal": {
+            "rate": 27.77777777777778,
+            "number": 1941
+        },
+        "Evershine Nagar": {
+            "rate": 69.0,
+            "number": 1942
+        },
+        "HBR Layout Block 2": {
+            "rate": 17.0,
+            "number": 1943
+        },
+        "Sector 1 HSR Layout": {
+            "rate": 59.0,
+            "number": 1944
+        },
+        "Jagat Puri Krishna Nagar": {
+            "rate": 24.0,
+            "number": 1945
+        },
+        "Mukherjee Nagar Burari": {
+            "rate": 28.0,
+            "number": 1946
+        },
+        "Krushna Nagar Chinchwad": {
+            "rate": 19.0,
+            "number": 1947
+        },
+        "Patil Nagar Balewadi": {
+            "rate": 40.0,
+            "number": 1948
+        },
+        "Hatkesh Udhog Nagar": {
+            "rate": 28.0,
+            "number": 1949
+        },
+        "Sadh Nagar": {
+            "rate": 16.0,
+            "number": 1950
+        },
+        "Nanjappa Layout Adugodi": {
+            "rate": 26.0,
+            "number": 1951
+        },
+        "Guru Arjun Nagar": {
+            "rate": 34.0,
+            "number": 1952
+        },
+        "Jahangirpuri": {
+            "rate": 13.0,
+            "number": 1953
+        },
+        "Waliv Phata": {
+            "rate": 345.0,
+            "number": 1954
+        },
+        "AECS Layout-Singasandra": {
+            "rate": 17.0,
+            "number": 1955
+        },
+        "Central Ordanance Depot": {
+            "rate": 49.0,
+            "number": 1956
+        },
+        "Landewadi": {
+            "rate": 25.0,
+            "number": 1957
+        },
+        "Pocket 10 Sector B Vasant Kunj": {
+            "rate": 30.0,
+            "number": 1958
+        },
+        "Holiday Village Road": {
+            "rate": 25.0,
+            "number": 1959
+        },
+        "Shyam Nagar Okhla": {
+            "rate": 20.0,
+            "number": 1960
+        },
+        "Yadav Park Extension": {
+            "rate": 16.0,
+            "number": 1961
+        },
+        "Trinity Church Road": {
+            "rate": 47.0,
+            "number": 1962
+        },
+        "Masjid Bandar": {
+            "rate": 41.0,
+            "number": 1963
+        },
+        "Saint Thomas Church Road": {
+            "rate": 12.0,
+            "number": 1964
+        },
+        "Green Hills": {
+            "rate": 94.0,
+            "number": 1965
+        },
+        "Kadabagere": {
+            "rate": 9.0,
+            "number": 1966
+        },
+        "Mundhwa Manjari Road": {
+            "rate": 12.0,
+            "number": 1967
+        },
+        "Yamuna Nagar Andheri West": {
+            "rate": 122.0,
+            "number": 1968
+        },
+        "Medical Chowk": {
+            "rate": 20.0,
+            "number": 1969
+        },
+        "Gaikwad Vasti": {
+            "rate": 20.0,
+            "number": 1970
+        },
+        "Sector 16B Dwarka": {
+            "rate": 28.0,
+            "number": 1971
+        },
+        "Kalachowki": {
+            "rate": 76.0,
+            "number": 1972
+        },
+        "Phase 3 Reliable Residency Layout": {
+            "rate": 20.0,
+            "number": 1973
+        },
+        "Pragathi Nagar": {
+            "rate": 19.0,
+            "number": 1974
+        },
+        "Swasthya Vihar": {
+            "rate": 26.88888888888889,
+            "number": 1975
+        },
+        "Chhawla": {
+            "rate": 29.0,
+            "number": 1976
+        },
+        "Dabri Extension": {
+            "rate": 21.0,
+            "number": 1977
+        },
+        "Gondia": {
+            "rate": 9.0,
+            "number": 1978
+        },
+        "Shri Krishna Nagar": {
+            "rate": 12.0,
+            "number": 1979
+        },
+        "Samaspur Village": {
+            "rate": 23.0,
+            "number": 1980
+        },
+        "Anjanapura Township": {
+            "rate": 19.0,
+            "number": 1981
+        },
+        "Qutub Vihar Phase 2": {
+            "rate": 56.0,
+            "number": 1982
+        },
+        "Govindpura": {
+            "rate": 22.0,
+            "number": 1983
+        }
+    }
+}
