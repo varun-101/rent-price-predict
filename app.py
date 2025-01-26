@@ -3,6 +3,7 @@ import numpy as np
 import joblib
 import json
 from flask_cors import CORS
+import os
 
 app = Flask(__name__)
 # Enable CORS for all routes
@@ -28,6 +29,10 @@ def get_area_rate_from_address(address):
     # Return None if no match found
     return None
 
+@app.route('/', methods=['GET'])
+def home():
+    return "Rent Prediction API is running!"
+
 @app.route('/predict', methods=['POST'])
 def predict():
     try:
@@ -38,7 +43,7 @@ def predict():
         area = float(data['area'])
         beds = int(data['beds'])
         bathrooms = int(data['bathrooms'])
-        furnishing = int(data['furnishing'])  # Now expecting furnishing as number (0, 1, or 2)
+        furnishing = int(data['furnishing'])
         bhk = int(data['bhk'])
         
         # Get area_rate from address if provided
@@ -86,4 +91,5 @@ def get_mappings():
     return jsonify(mappings)
 
 if __name__ == '__main__':
-    app.run(debug=True, port=5000)
+    port = int(os.environ.get('PORT', 5000))
+    app.run(host='0.0.0.0', port=port)
